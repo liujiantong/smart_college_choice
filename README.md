@@ -150,7 +150,11 @@
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
 ### 57. Rensselaer Polytechnic Institute
+- [CDS](http://provost.rpi.edu/sites/default/files/CDS_2017-2018_0.pdf#overlay-context=institutional-research/common-datasets)
 - [官网](https://www.rpi.edu/)
+- [](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
+- [](https://www.niche.com/colleges/rensselaer-polytechnic-institute/)
+- [](https://www.usnews.com/best-colleges/rpi-2803)
 
 ### 58. University of California - Davis
 - [CDS](https://www.sariweb.ucdavis.edu/commondataset/cds20162017.pdf)
