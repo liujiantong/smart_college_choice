@@ -45,9 +45,9 @@
 ### 17. University of California - Berkeley
 - [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18.xlsx)
 - [官网](https://www.berkeley.edu/)
-- [](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)
-- [](https://www.niche.com/colleges/university-of-california---berkeley/)
-- [](https://www.usnews.com/best-colleges/uc-berkeley-1312)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)
+- [Niche](https://www.niche.com/colleges/university-of-california---berkeley/)
+- [US News](https://www.usnews.com/best-colleges/uc-berkeley-1312)
 
 ### 18. Carnegie Mellon University
 - [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
