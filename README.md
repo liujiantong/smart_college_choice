@@ -57,7 +57,11 @@
 - [US News](https://www.usnews.com/best-colleges/carnegie-mellon-university-3242)
 
 ### 19. University of Michigan - Ann Arbor
+- [CDS](http://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2016-2017_umaa.pdf)
 - [官网](https://www.umich.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Michigan)
+- [Niche](https://www.niche.com/colleges/university-of-michigan---ann-arbor/)
+- [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
 ### 22. New York University
 - [官网](https://www.nyu.edu/)
