@@ -104,11 +104,11 @@
 - [官网](https://www.bc.edu/)
 
 ### 32. University of Virginia - Main Campus (公立常春藤)
-- [](http://ias.virginia.edu/cds-2017-18)
+- [CDS](http://ias.virginia.edu/cds-2017-18)
 - [官网](http://www.virginia.edu/)
-- [](https://en.wikipedia.org/wiki/University_of_Virginia)
-- [](https://www.niche.com/colleges/university-of-virginia/)
-- [](https://www.usnews.com/best-colleges/uva-6968)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Virginia)
+- [Niche](https://www.niche.com/colleges/university-of-virginia/)
+- [US News](https://www.usnews.com/best-colleges/uva-6968)
 
 ### 33. College of the Holy Cross
 - [官网](https://www.holycross.edu/)
@@ -123,7 +123,7 @@
 ### 35. University of Illinois at Urbana - Champaign (公立常春藤)
 - [CDS](http://www.dmi.illinois.edu/stuenr/misc/cds_2016_2017.xls)
 - [官网](http://illinois.edu/)
-- [](https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign)
 - [Niche](https://www.niche.com/colleges/university-of-illinois-at-urbana-champaign/)
 - [US News](https://www.usnews.com/best-colleges/uiuc-1775)
 
