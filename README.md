@@ -202,6 +202,12 @@
 
 ## 其他选择
 
+### University of Minnesota, Twin Cities (公立常春藤)
+- [官网](https://twin-cities.umn.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Minnesota)
+- [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
+- [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
+
 ### Binghamton University (纽约州立大学分校, 公立常春藤)
 - [CDS](https://www.binghamton.edu/oira/cds/cds_1718.pdf)
 - [官网](https://www.binghamton.edu/)
