@@ -202,7 +202,14 @@
 
 ## 其他选择
 
-### Stony Brook University (公立常春藤)
+### Binghamton University (纽约州立大学分校, 公立常春藤)
+- [CDS](https://www.binghamton.edu/oira/cds/cds_1718.pdf)
+- [官网](https://www.binghamton.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Binghamton_University)
+- [Niche](https://www.niche.com/colleges/binghamton-university-suny/)
+- [US News](https://www.usnews.com/best-colleges/suny-binghamton-2836)
+
+### Stony Brook University (纽约州立大学分校, 公立常春藤)
 - [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
 - [官网](http://www.stonybrook.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Stony_Brook_University)
