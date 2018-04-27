@@ -106,7 +106,11 @@
 - [官网](https://www.holycross.edu/)
 
 ### 34. Worcester Polytechnic Institute
+- [CDS](https://www.wpi.edu/sites/default/files/inline-image/Offices/Institutional-Research/WPI%20CDS%202017-2018_1.pdf)
 - [官网](https://www.wpi.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute)
+- [Niche](https://www.niche.com/colleges/worcester-polytechnic-institute/)
+- [US News](https://www.usnews.com/best-colleges/wpi-2233)
 
 ### 35. University of Illinois at Urbana - Champaign
 - [官网](http://illinois.edu/)
