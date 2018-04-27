@@ -202,11 +202,39 @@
 
 ## 其他选择
 
+### University of North Carolina at Chapel Hill (公立常春藤)
+- [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
+- [官网](https://www.unc.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill)
+- [Niche](https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/)
+- [US News](https://www.usnews.com/best-colleges/unc-2974)
+	
+### College of William & Mary in Virginia (公立常春藤)
+- [CDS](https://www.wm.edu/offices/ir/documents/cds/cds1718.xlsx)
+- [官网](https://www.wm.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/College_of_William_%26_Mary)
+- [Niche](https://www.niche.com/colleges/college-of-william--and--mary/)
+- [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
+
+### Georgia Institute of Technology (公立常春藤)
+- [CDS](https://www.irp.gatech.edu/common-data-set)
+- [官网](http://www.gatech.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology)
+- [Niche](https://www.niche.com/colleges/georgia-institute-of-technology/)
+- [US News](https://www.usnews.com/best-colleges/georgia-tech-1569)
+
 ### University of Minnesota, Twin Cities (公立常春藤)
 - [官网](https://twin-cities.umn.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Minnesota)
 - [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
 - [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
+
+### Ohio State University (公立常春藤)
+- [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
+- [官网](https://www.osu.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Ohio_State_University)
+- [Niche](https://www.niche.com/colleges/ohio-state-university/)
+- [US News](https://www.usnews.com/best-colleges/ohio-state-6883)
 
 ### Binghamton University (纽约州立大学分校, 公立常春藤)
 - [CDS](https://www.binghamton.edu/oira/cds/cds_1718.pdf)
@@ -228,27 +256,6 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Carleton_College)
 - [Niche](https://www.niche.com/colleges/carleton-college/)
 - [US News](https://www.usnews.com/best-colleges/carleton-college-2340)
-
-### University of North Carolina at Chapel Hill (公立常春藤)
-- [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
-- [官网](https://www.unc.edu/)
-- [Wikipedia](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill)
-- [Niche](https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/)
-- [US News](https://www.usnews.com/best-colleges/unc-2974)
-	
-### College of William & Mary in Virginia (公立常春藤)
-- [CDS](https://www.wm.edu/offices/ir/documents/cds/cds1718.xlsx)
-- [官网](https://www.wm.edu/)
-- [Wikipedia](https://en.wikipedia.org/wiki/College_of_William_%26_Mary)
-- [Niche](https://www.niche.com/colleges/college-of-william--and--mary/)
-- [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
-
-### Georgia Institute of Technology (公立常春藤)
-- [CDS](https://www.irp.gatech.edu/common-data-set)
-- [官网](http://www.gatech.edu/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology)
-- [Niche](https://www.niche.com/colleges/georgia-institute-of-technology/)
-- [US News](https://www.usnews.com/best-colleges/georgia-tech-1569)
 
 ### Brandeis University
 - [官网](https://www.brandeis.edu/)
