@@ -43,10 +43,18 @@
 - [官网](https://www.northwestern.edu/)
 
 ### 17. University of California - Berkeley
+- [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18.xlsx)
 - [官网](https://www.berkeley.edu/)
+- [](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)
+- [](https://www.niche.com/colleges/university-of-california---berkeley/)
+- [](https://www.usnews.com/best-colleges/uc-berkeley-1312)
 
 ### 18. Carnegie Mellon University
+- [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
 - [官网](https://www.cmu.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Mellon_University)
+- [Niche](https://www.niche.com/colleges/carnegie-mellon-university/)
+- [US News](https://www.usnews.com/best-colleges/carnegie-mellon-university-3242)
 
 ### 19. University of Michigan - Ann Arbor
 - [官网](https://www.umich.edu/)
@@ -71,7 +79,11 @@
 - [官网](https://uci.edu/)
 
 ### 29. University of Wisconsin - Madison
+- [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
 - [官网](https://www.wisc.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
+- [Niche](https://www.niche.com/colleges/university-of-wisconsin/)
+- [US News](https://www.usnews.com/best-colleges/university-of-wisconsin-3895)
 
 ### 30. University of Washington - Seattle Campus
 - [官网](https://www.washington.edu/)
