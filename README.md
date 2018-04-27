@@ -80,7 +80,11 @@
 - [官网](http://www.rice.edu/)
 
 ### 28. University of California - Irvine
+- [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
 - [官网](https://uci.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Irvine)
+- [Niche](https://www.niche.com/colleges/university-of-california---irvine/)
+- [US News](https://www.usnews.com/best-colleges/uc-irvine-1314)
 
 ### 29. University of Wisconsin - Madison
 - [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
@@ -135,13 +139,21 @@
 - [官网](http://www.ufl.edu/)
 
 ### 51. University of California - San Diego
+- [CDS](https://ir.ucsd.edu/_files/stats-data/common-data-set/ucsd20162017.pdf)
 - [官网](https://ucsd.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
+- [Niche](https://www.niche.com/colleges/university-of-california---san-diego/)
+- [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
 ### 57. Rensselaer Polytechnic Institute
 - [官网](https://www.rpi.edu/)
 
 ### 58. University of California - Davis
+- [CDS](https://www.sariweb.ucdavis.edu/commondataset/cds20162017.pdf)
 - [官网](https://www.ucdavis.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Davis)
+- [Niche](https://www.niche.com/colleges/university-of-california---davis/)
+- [US News](https://www.usnews.com/best-colleges/uc-davis-1313)
 
 
 ## 其他选择
