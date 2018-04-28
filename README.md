@@ -37,10 +37,18 @@
 - [US News](https://www.usnews.com/best-colleges/washington-university-st-louis-2520)
 
 ### 10. Williams College
+- [CDS](https://provost.williams.edu/files/williams_cds_1718.pdf)
 - [官网](https://www.williams.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Williams_College)
+- [Niche](https://www.niche.com/colleges/williams-college/)
+- [US News](https://www.usnews.com/best-colleges/williams-college-2229)
 
 ### 14. Northwestern University
+- [CDS](http://enrollment.northwestern.edu/pdf/common-data/2016-17.pdf)
 - [官网](https://www.northwestern.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Northwestern_University)
+- [Niche](https://www.niche.com/colleges/northwestern-university/)
+- [US News](https://www.usnews.com/best-colleges/northwestern-1739)
 
 ### 17. University of California - Berkeley (公立常春藤)
 - [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18.xlsx)
@@ -64,10 +72,18 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
 ### 22. New York University
+- [CDS](https://www.nyu.edu/dam/nyu/institutionalResearch/documents/CDS%202014-2015.pdf)
 - [官网](https://www.nyu.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/New_York_University)
+- [Niche](https://www.niche.com/colleges/new-york-university/)
+- [US News](https://www.usnews.com/best-colleges/nyu-2785)
 
 ### 23. Vanderbilt University
+- [CDS](https://virg.vanderbilt.edu/virgweb/vucds.aspx)
 - [官网](https://www.vanderbilt.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Vanderbilt_University)
+- [Niche](https://www.niche.com/colleges/vanderbilt-university/)
+- [US News](https://www.usnews.com/best-colleges/vanderbilt-3535)
 
 ### 24. University of Texas at Austin (公立常春藤)
 - [CDS](https://utexas.app.box.com/v/CDS2017)
@@ -77,7 +93,11 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-texas-3658)
 
 ### 26. Rice University
+- [CDS](https://oir.rice.edu/sites/g/files/bxs1496/f/3.%20CDS_2016-2017_WEBSITE%281%29_0.pdf)
 - [官网](http://www.rice.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Rice_University)
+- [Niche](https://www.niche.com/colleges/rice-university/)
+- [US News](https://www.usnews.com/best-colleges/rice-3604)
 
 ### 28. University of California - Irvine (公立常春藤)
 - [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
@@ -101,7 +121,11 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-washington-3798)
 
 ### 31. Boston College
+- [CDS](https://www.bc.edu/content/dam/files/publications/factbook/pdf/17_18/17-18_factbook.pdf)
 - [官网](https://www.bc.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Boston_College)
+- [Niche](https://www.niche.com/colleges/boston-college/)
+- [US News](https://www.usnews.com/best-colleges/boston-college-2128)
 
 ### 32. University of Virginia - Main Campus (公立常春藤)
 - [CDS](http://ias.virginia.edu/cds-2017-18)
@@ -111,7 +135,11 @@
 - [US News](https://www.usnews.com/best-colleges/uva-6968)
 
 ### 33. College of the Holy Cross
+- [CDS](https://www.holycross.edu/sites/default/files/files/planningandspecialproj/cds_2017-2018.pdf)
 - [官网](https://www.holycross.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/College_of_the_Holy_Cross)
+- [Niche](https://www.niche.com/colleges/college-of-the-holy-cross/)
+- [US News](https://www.usnews.com/best-colleges/holy-cross-2141)
 
 ### 34. Worcester Polytechnic Institute
 - [CDS](https://www.wpi.edu/sites/default/files/inline-image/Offices/Institutional-Research/WPI%20CDS%202017-2018_1.pdf)
@@ -169,7 +197,11 @@
 - [US News](https://www.usnews.com/best-colleges/purdue-1825)
 
 ### 47. Boston University 
+- [CDS](https://www.bu.edu/oir/files/2017/07/cds-2017.pdf)
 - [官网](http://www.bu.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Boston_University)
+- [Niche](https://www.niche.com/colleges/boston-university/)
+- [US News](https://www.usnews.com/best-colleges/boston-university-2130)
 
 ### 49. University of Florida (公立常春藤)
 - [CDS](http://www.ir.ufl.edu/CDS/Main_cds2016-2017.pdf)
