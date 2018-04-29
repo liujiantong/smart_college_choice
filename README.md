@@ -169,12 +169,6 @@
 - [Niche](https://www.niche.com/colleges/university-of-maryland---college-park/)
 - [US News](https://www.usnews.com/best-colleges/university-of-maryland-2103)
 
-### 39. Hamilton College
-- [官网](https://www.hamilton.edu/)
-
-### 40. Swarthmore College
-- [官网](https://www.swarthmore.edu/)
-
 ### 41. Pennsylvania State University - Main Campus (公立常春藤)
 - [CDS](https://budget.psu.edu/CDS/Campus.aspx?AY=20172018&Location=UP&displayNewTuition=n)
 - [官网](http://www.psu.edu/)
@@ -290,10 +284,31 @@
 - [US News](https://www.usnews.com/best-colleges/carleton-college-2340)
 
 ### Brandeis University
+- [CDS](http://www.brandeis.edu/opir/docs/cds1617.pdf)
 - [官网](https://www.brandeis.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Brandeis_University)
+- [Niche](https://www.niche.com/colleges/brandeis-university/)
+- [US News](https://www.usnews.com/best-colleges/brandeis-university-2133)
+
+### University of Cambridge
+- [官网](https://www.cam.ac.uk/)
+- [Apply](https://www.undergraduate.study.cam.ac.uk/applying)
+- [Requirements](https://www.undergraduate.study.cam.ac.uk/applying/entrance-requirements)
+- [Deadline](https://www.undergraduate.study.cam.ac.uk/applying/dates-and-deadlines)
+- [Math](https://www.undergraduate.study.cam.ac.uk/courses/mathematics)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Cambridge)
 
 ### Imperial College, London
 - [官网](https://www.imperial.ac.uk/)
+- [Apply](http://www.imperial.ac.uk/study/ug/apply/)
+- [Math major](http://www.imperial.ac.uk/mathematics/)
+- [Math Computer](http://www.imperial.ac.uk/study/ug/courses/computing-department/mathematics-computer-science-meng/)
+- [Math Finance](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-statistics-finance-bsc/)
+- [Math abroad](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-europe-msci/)
+- [MAT](https://www.tutorfair.com/resource/84/mat-past-papers)
+- [MAT2016](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT2016.pdf)
+- [Wikipedia](https://en.wikipedia.org/wiki/Imperial_College_London)
+- [US News](https://www.usnews.com/education/best-global-universities/imperial-college-london-505571)
 
 ### University of Waterloo
 - [官网](https://uwaterloo.ca)
