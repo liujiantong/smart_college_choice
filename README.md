@@ -3,13 +3,16 @@
 
 ## [2018 Best Mathematics Colleges in the U.S.](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
 
-### 2. Harvey Mudd College
+### `2. Harvey Mudd College`
 - [CDS](https://www.hmc.edu/institutional-research/wp-content/uploads/sites/42/2018/01/2017-18-CDS_complete..pdf)
+- [本科计算机排名：9](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [官网](https://www.hmc.edu/)
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
 - [US News](https://www.usnews.com/best-colleges/harvey-mudd-college-1171)
 
-### 5. Cornell University
+### `5. Cornell University`
+- []()
+- [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://irp.dpb.cornell.edu/wp-content/uploads/2018/03/CDS_2017-2018-v3.pdf)
 - [官网](https://www.cornell.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Cornell_University)
@@ -17,7 +20,8 @@
 - [US News](https://www.usnews.com/best-colleges/cornell-university-2711)
 
 ### `6. University of California - Los Angeles (公立常春藤)`
-- [US News 全美数学排名：7](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 全美数学排名：7](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：5](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](http://www.apb.ucla.edu/campus-statistics/common-data-set)
 - [官网](http://www.ucla.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles)
@@ -33,6 +37,7 @@
 
 ### 9. Washington University in St Louis
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：16](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://wustl.edu/wp-content/uploads/2018/01/wustl-cds-2016-2017.pdf)
 - [官网](https://wustl.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis)
@@ -56,6 +61,7 @@
 
 ### `17. University of California - Berkeley (公立常春藤)`
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18_0.xlsx)
 - [官网](https://www.berkeley.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)
@@ -71,6 +77,7 @@
 
 ### `19. University of Michigan - Ann Arbor (公立常春藤)`
 - [US News 全美数学排名：12](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：7](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2016-2017_umaa.pdf)
 - [官网](https://www.umich.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Michigan)
@@ -79,6 +86,7 @@
 
 ### `22. New York University`
 - [US News 全美数学排名：9](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：18](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.nyu.edu/dam/nyu/institutionalResearch/documents/CDS%202014-2015.pdf)
 - [官网](https://www.nyu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/New_York_University)
@@ -95,6 +103,7 @@
 
 ### `24. University of Texas at Austin (公立常春藤)`
 - [US News 全美数学排名：14](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：8](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://utexas.app.box.com/v/CDS2017)
 - [官网](https://www.utexas.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin)
@@ -111,6 +120,7 @@
 
 ### `28. University of California - Irvine (公立常春藤)`
 - [US News 全美数学排名：39](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：38](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/p4.html)
 - [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
 - [官网](https://uci.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Irvine)
@@ -119,6 +129,7 @@
 
 ### `29. University of Wisconsin - Madison (公立常春藤)`
 - [US News 全美数学排名：16](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
 - [官网](https://www.wisc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
@@ -127,6 +138,7 @@
 
 ### `30. University of Washington - Seattle Campus (公立常春藤)`
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：11](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://opb.washington.edu/sites/default/files/opb/Data/ExternalReports/CDS_2017-2018_Seattle.xlsx)
 - [官网](https://www.washington.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Washington)
@@ -156,6 +168,7 @@
 - [US News](https://www.usnews.com/best-colleges/holy-cross-2141)
 
 ### 34. Worcester Polytechnic Institute
+- [本科计算机排名：2](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.wpi.edu/sites/default/files/inline-image/Offices/Institutional-Research/WPI%20CDS%202017-2018_1.pdf)
 - [官网](https://www.wpi.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute)
@@ -164,6 +177,7 @@
 
 ### `35. University of Illinois at Urbana - Champaign (公立常春藤)`
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：5](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://www.dmi.illinois.edu/stuenr/misc/cds_2016_2017.xls)
 - [官网](http://illinois.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign)
@@ -180,6 +194,7 @@
 
 ### `38. University of Maryland - College Park (公立常春藤)`
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：19](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.irpa.umd.edu/Publications/cds/CDS_2017-2018.xlsx)
 - [官网](https://www.umd.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park)
@@ -204,6 +219,7 @@
 
 ### `44. Purdue University - Main Campus (公立常春藤)`
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：12](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://www.purdue.edu/oirae/documents/CDS/CDS_2017-2018.xlsx)
 - [官网](http://www.purdue.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Purdue_University)
@@ -228,6 +244,7 @@
 
 ### `51. University of California - San Diego (公立常春藤)`
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://ir.ucsd.edu/_files/stats-data/common-data-set/ucsd20162017.pdf)
 - [官网](https://ucsd.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
@@ -236,6 +253,7 @@
 
 ### `57. Rensselaer Polytechnic Institute (公立常春藤)`
 - [US News 全美数学排名：55](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：34](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](http://provost.rpi.edu/sites/default/files/CDS_2017-2018_0.pdf#overlay-context=institutional-research/common-datasets)
 - [官网](https://www.rpi.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
@@ -269,7 +287,9 @@
 - [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
 
 ### `Georgia Institute of Technology (公立常春藤)`
-- [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 计算机排名：6](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
+- [本科计算机排名：13](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.irp.gatech.edu/common-data-set)
 - [官网](http://www.gatech.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology)
@@ -277,14 +297,14 @@
 - [US News](https://www.usnews.com/best-colleges/georgia-tech-1569)
 
 ### `University of Minnesota, Twin Cities (公立常春藤)`
-- [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://twin-cities.umn.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Minnesota)
 - [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
 - [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
 
 ### `Ohio State University (公立常春藤)`
-- [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
 - [官网](https://www.osu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Ohio_State_University)
@@ -299,7 +319,7 @@
 - [US News](https://www.usnews.com/best-colleges/suny-binghamton-2836)
 
 ### `Stony Brook University (纽约州立大学分校, 公立常春藤)`
-- [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
 - [官网](http://www.stonybrook.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Stony_Brook_University)
@@ -346,9 +366,6 @@
 - [QS全球数学排名39](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://uwaterloo.ca)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Waterloo)
-
-
-
 
 
  
