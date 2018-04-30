@@ -328,7 +328,7 @@
 		- 数学：[720, 790]
 		- 作文：[8, 9]
 	- GPA：A
-		- > 3.75: 93.84%
+		- &gt; 3.75: 93.84%
 - 新生概要：
 	- [Freshman profile](http://admission.gatech.edu/images/pdf/2017_freshman_profilef.pdf)
 - [CDS](https://www.irp.gatech.edu/common-data-set)
