@@ -286,10 +286,65 @@
 - [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
 
 ### `Georgia Institute of Technology (公立常春藤)`
+#### 排名
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：6](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [本科计算机排名：13](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
+
+#### 申请
+- EA
+	- 截止日：October 15
+	- 文档截止日：December 1
+	- 决定日：January 13, 2018
+- RD
+	- 截止日：January 1	
+	- 文档截止日：February 1
+	- 决定日：March 10, 2018
+- 录取率：18%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Extracurricular activities
+	- 重要
+		- Standardized test scores
+		- Application Essay
+		- Talent/ability
+		- Character/personal qualities
+		- Geographical residence
+		- Volunteer work
+		- Work experience
+	- 考虑
+		- Recommendation(s)
+- 种族构成
+	- 白人：52%
+	- 亚洲人：23
+	- 黑人：7%
+- 申请成绩
+	- SAT
+		- 1360-1490
+		- 阅读写作700-800: 38.01%
+		- 数学700-800: 84.29%
+	- GPA：A
+		- > 3.75: 93.84%
+- 新生概要：
+	- [Freshman profile](http://admission.gatech.edu/images/pdf/2017_freshman_profilef.pdf)
 - [CDS](https://www.irp.gatech.edu/common-data-set)
+
+#### 学生生活
+- 兄弟会：26%
+- 姐妹会：30%
+
+#### 费用
+- 学费： $30,604
+- 其他： $2,410 + $14,126
+
+#### 环境
+- 佐治亚州亚特兰大
+- 夏天最高温度：32
+- 冬天最低温度：1
+
+#### 其他链接
 - [官网](http://www.gatech.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology)
 - [Niche](https://www.niche.com/colleges/georgia-institute-of-technology/)
