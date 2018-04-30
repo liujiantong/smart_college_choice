@@ -292,6 +292,8 @@
 - [USNews 计算机排名：6](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [本科计算机排名：13](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 
+#### [CDS](https://www.irp.gatech.edu/common-data-set)
+
 #### 申请
 - EA
 	- 截止日：October 15
@@ -317,10 +319,6 @@
 		- Work experience
 	- 考虑
 		- Recommendation(s)
-- 种族构成
-	- 白人：52%
-	- 亚洲人：23
-	- 黑人：7%
 - 申请成绩
 	- SAT
 		- 1360-1490
@@ -329,17 +327,19 @@
 		- 作文：[8, 9]
 	- GPA：A
 		- &gt; 3.75: 93.84%
-- 新生概要：
-	- [Freshman profile](http://admission.gatech.edu/images/pdf/2017_freshman_profilef.pdf)
-- [CDS](https://www.irp.gatech.edu/common-data-set)
-
-#### 学生生活
-- 兄弟会：26%
-- 姐妹会：30%
 
 #### 费用
 - 学费： $30,604
 - 其他： $2,410 + $14,126
+
+#### 学生生活
+- [新生概要](http://admission.gatech.edu/images/pdf/2017_freshman_profilef.pdf)
+- 兄弟会：26%
+- 姐妹会：30%
+- 种族构成
+	- 白人：52%
+	- 亚洲人：23
+	- 黑人：7%
 
 #### 环境
 - 佐治亚州亚特兰大
@@ -407,6 +407,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Cambridge)
 
 ### `Imperial College, London`
+- [MAT]
 - [QS全球数学排名10](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://www.imperial.ac.uk/)
 - [Apply](http://www.imperial.ac.uk/study/ug/apply/)
