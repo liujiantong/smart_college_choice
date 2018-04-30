@@ -4,8 +4,54 @@
 ## [2018 Best Mathematics Colleges in the U.S.](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
 
 ### `2. Harvey Mudd College`
-- [CDS](https://www.hmc.edu/institutional-research/wp-content/uploads/sites/42/2018/01/2017-18-CDS_complete..pdf)
+#### 排名
+- [USNews文理学院排名：21](https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges)
+- [本科数学排名：2](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
 - [本科计算机排名：9](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
+
+#### [CDS](https://www.hmc.edu/institutional-research/wp-content/uploads/sites/42/2018/01/2017-18-CDS_complete..pdf)
+
+#### 申请
+- ED
+	- 截止日：November 15
+	- 文档截止日：December 1
+	- 决定日：January 5
+- RD
+	- 截止日：January 5
+	- 文档截止日：February 15
+	- 决定日：April 1
+- 录取率：15%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Recommendation(s)
+		- Talent/ability
+		- Character/personal qualities
+	- 重要
+		- Class rank
+		- Standardized test scores
+		- Extracurricular activities
+	- 考虑
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1420-1580
+		- 阅读写作：[720, 770]
+		- 数学：[750, 800]
+
+#### 费用
+- 学费： $54,347
+- 其他： $539 + $17,592
+
+#### 价值
+- 毕业率：93%
+- 2年后就业率：89%
+- 2年后年薪中位数：$65,200/ year
+
+#### 其他链接
 - [官网](https://www.hmc.edu/)
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
 - [US News](https://www.usnews.com/best-colleges/harvey-mudd-college-1171)
@@ -19,9 +65,47 @@
 - [US News](https://www.usnews.com/best-colleges/cornell-university-2711)
 
 ### `6. University of California - Los Angeles (公立常春藤)`
+#### 排名
+- [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：7](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：5](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
-- [CDS](http://www.apb.ucla.edu/campus-statistics/common-data-set)
+
+#### [CDS](http://www.apb.ucla.edu/campus-statistics/common-data-set)
+
+#### 申请
+- RD
+	- 截止日：November 30
+	- 文档截止日：February 15
+	- 决定日：April 1
+- 录取率：16%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Standardized test scores
+	- 重要
+		- Talent/ability
+		- Character/personal qualities
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1160-1470
+		- 阅读写作：[630, 740]
+		- 数学：[610, 760]
+
+#### 费用
+- 学费： $39,516
+- 其他： $1,778 + $15,991
+
+#### 价值
+- 毕业率：91%
+- 2年后就业率：88%
+- 2年后年薪中位数：$41,900/ year
+
+#### 其他链接
 - [官网](http://www.ucla.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles)
 - [Niche](https://www.niche.com/colleges/university-of-california---los-angeles/)
@@ -35,6 +119,7 @@
 - [US News](https://www.usnews.com/best-colleges/pomona-college-1173)
 
 ### `9. Washington University in St Louis`
+- [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：16](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://wustl.edu/wp-content/uploads/2018/01/wustl-cds-2016-2017.pdf)
@@ -51,6 +136,7 @@
 - [US News](https://www.usnews.com/best-colleges/williams-college-2229)
 
 ### `14. Northwestern University`
+- [USNews 排名：12](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](http://enrollment.northwestern.edu/pdf/common-data/2016-17.pdf)
 - [官网](https://www.northwestern.edu/)
@@ -59,6 +145,7 @@
 - [US News](https://www.usnews.com/best-colleges/northwestern-1739)
 
 ### `17. University of California - Berkeley (公立常春藤)`
+- [USNews 排名：20](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18_0.xlsx)
@@ -68,6 +155,7 @@
 - [US News](https://www.usnews.com/best-colleges/uc-berkeley-1312)
 
 ### 18. Carnegie Mellon University
+- [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
 - [官网](https://www.cmu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Mellon_University)
@@ -75,7 +163,8 @@
 - [US News](https://www.usnews.com/best-colleges/carnegie-mellon-university-3242)
 
 ### `19. University of Michigan - Ann Arbor (公立常春藤)`
-- [US News 全美数学排名：12](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [US News 全美数学排名：27](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：7](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2016-2017_umaa.pdf)
 - [官网](https://www.umich.edu/)
@@ -84,6 +173,7 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
 ### `22. New York University`
+- [USNews 排名：36](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：9](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：18](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.nyu.edu/dam/nyu/institutionalResearch/documents/CDS%202014-2015.pdf)
@@ -101,6 +191,7 @@
 - [US News](https://www.usnews.com/best-colleges/vanderbilt-3535)
 
 ### `24. University of Texas at Austin (公立常春藤)`
+- [USNews 排名：56](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：14](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：8](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://utexas.app.box.com/v/CDS2017)
@@ -110,6 +201,7 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-texas-3658)
 
 ### `26. Rice University`
+- [USNews 排名：15](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oir.rice.edu/sites/g/files/bxs1496/f/3.%20CDS_2016-2017_WEBSITE%281%29_0.pdf)
 - [官网](http://www.rice.edu/)
@@ -118,6 +210,7 @@
 - [US News](https://www.usnews.com/best-colleges/rice-3604)
 
 ### `28. University of California - Irvine (公立常春藤)`
+- [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：39](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：38](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/p4.html)
 - [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
@@ -127,7 +220,8 @@
 - [US News](https://www.usnews.com/best-colleges/uc-irvine-1314)
 
 ### `29. University of Wisconsin - Madison (公立常春藤)`
-- [US News 全美数学排名：16](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [US News 全美数学排名：44](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
 - [官网](https://www.wisc.edu/)
@@ -136,6 +230,7 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-wisconsin-3895)
 
 ### `30. University of Washington - Seattle Campus (公立常春藤)`
+- [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：11](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://opb.washington.edu/sites/default/files/opb/Data/ExternalReports/CDS_2017-2018_Seattle.xlsx)
@@ -152,6 +247,7 @@
 - [US News](https://www.usnews.com/best-colleges/boston-college-2128)
 
 ### `32. University of Virginia - Main Campus (公立常春藤)`
+- [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](http://ias.virginia.edu/cds-2017-18)
 - [官网](http://www.virginia.edu/)
@@ -175,6 +271,7 @@
 - [US News](https://www.usnews.com/best-colleges/wpi-2233)
 
 ### `35. University of Illinois at Urbana - Champaign (公立常春藤)`
+- [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：5](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://www.dmi.illinois.edu/stuenr/misc/cds_2016_2017.xls)
@@ -184,6 +281,7 @@
 - [US News](https://www.usnews.com/best-colleges/uiuc-1775)
 
 ### `36. Rutgers University - New Brunswick (公立常春藤)`
+- [USNews 排名：70](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oirap.rutgers.edu/CDS/2016/New%20BrunswickRegion16.pdf)
 - [官网](https://newbrunswick.rutgers.edu/)
@@ -192,6 +290,7 @@
 - [US News](https://www.usnews.com/best-colleges/rutgers-new-brunswick-6964)
 
 ### `38. University of Maryland - College Park (公立常春藤)`
+- [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：19](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://www.irpa.umd.edu/Publications/cds/CDS_2017-2018.xlsx)
@@ -201,6 +300,7 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-maryland-2103)
 
 ### `41. Pennsylvania State University - Main Campus (公立常春藤)`
+- [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：32](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://budget.psu.edu/CDS/Campus.aspx?AY=20172018&Location=UP&displayNewTuition=n)
 - [官网](http://www.psu.edu/)
@@ -217,6 +317,7 @@
 - [US News](https://www.usnews.com/best-colleges/uconn-29013)
 
 ### `44. Purdue University - Main Campus (公立常春藤)`
+- [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：12](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://www.purdue.edu/oirae/documents/CDS/CDS_2017-2018.xlsx)
@@ -225,7 +326,8 @@
 - [Niche](https://www.niche.com/colleges/purdue-university/)
 - [US News](https://www.usnews.com/best-colleges/purdue-1825)
 
-### 47. Boston University 
+### 47. Boston University
+- [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://www.bu.edu/oir/files/2017/07/cds-2017.pdf)
 - [官网](http://www.bu.edu/)
@@ -233,7 +335,8 @@
 - [Niche](https://www.niche.com/colleges/boston-university/)
 - [US News](https://www.usnews.com/best-colleges/boston-university-2130)
 
-### 49. University of Florida (公立常春藤)
+### `49. University of Florida (公立常春藤)`
+- [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：62](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](http://www.ir.ufl.edu/CDS/Main_cds2016-2017.pdf)
 - [官网](http://www.ufl.edu/)
@@ -242,6 +345,7 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-florida-1535)
 
 ### `51. University of California - San Diego (公立常春藤)`
+- [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](https://ir.ucsd.edu/_files/stats-data/common-data-set/ucsd20162017.pdf)
@@ -251,6 +355,7 @@
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
 ### `57. Rensselaer Polytechnic Institute (公立常春藤)`
+- [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：55](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：34](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](http://provost.rpi.edu/sites/default/files/CDS_2017-2018_0.pdf#overlay-context=institutional-research/common-datasets)
@@ -259,7 +364,13 @@
 - [Niche](https://www.niche.com/colleges/rensselaer-polytechnic-institute/)
 - [US News](https://www.usnews.com/best-colleges/rpi-2803)
 
+#### 价值
+- 毕业率：80%
+- 2年后就业率：94%
+- 2年后年薪中位数：$63,100/ year
+
 ### `58. University of California - Davis (公立常春藤)`
+- [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://www.sariweb.ucdavis.edu/commondataset/cds20162017.pdf)
 - [官网](https://www.ucdavis.edu/)
@@ -270,7 +381,20 @@
 
 ## 其他选择
 
+### `University of California - Santa Barbara`
+- [USNews 排名：37](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [官网](https://www.ucsb.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara)
+- [Niche](https://www.niche.com/colleges/university-of-california---santa-barbara/)
+- [US News](https://www.usnews.com/best-colleges/ucsb-1320)
+
+#### 价值
+- 毕业率：82%
+- 2年后就业率：90%
+- 2年后年薪中位数：$36,000/ year
+
 ### `University of North Carolina at Chapel Hill (公立常春藤)`
+- [USNews 排名：30](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
 - [官网](https://www.unc.edu/)
@@ -341,6 +465,11 @@
 	- 亚洲人：23
 	- 黑人：7%
 
+#### 价值
+- 毕业率：86%
+- 2年后就业率：95%
+- 2年后年薪中位数：$61,800/ year
+
 #### 环境
 - 佐治亚州亚特兰大
 - 夏天最高温度：32
@@ -360,12 +489,18 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
 
 ### `Ohio State University (公立常春藤)`
+- [USNews 排名：54](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
 - [官网](https://www.osu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Ohio_State_University)
 - [Niche](https://www.niche.com/colleges/ohio-state-university/)
 - [US News](https://www.usnews.com/best-colleges/ohio-state-6883)
+
+#### 价值
+- 毕业率：84%
+- 2年后就业率：93%
+- 2年后年薪中位数：$36,000/ year
 
 ### Binghamton University (纽约州立大学分校, 公立常春藤)
 - [CDS](https://www.binghamton.edu/oira/cds/cds_1718.pdf)
@@ -382,6 +517,11 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Stony_Brook_University)
 - [Niche](https://www.niche.com/colleges/stony-brook-university-suny/)
 - [US News](https://www.usnews.com/best-colleges/stony-brook-suny-2838)
+
+#### 价值
+- 毕业率：72%
+- 2年后就业率：90%
+- 2年后年薪中位数：$38,200/ year
 
 ### Carleton College
 - [CDS](https://apps.carleton.edu/campus/ira/assets/CDS_2016_2017_completed_with_Part_G.pdf)
@@ -425,5 +565,50 @@
 - [官网](https://uwaterloo.ca)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Waterloo)
 
+
+# 2018届 ICC录取部分名单
+* 西北大学 - 1
+* 康奈尔大学 - 1
+* 莱斯大学 - 2
+* 范德堡大学 - 2
+* 华盛顿圣路易斯分校 - 4
+* 乔治城大学 - 1
+* 艾默里大学 - 9
+* 加州大学伯克利 - 5
+* 南加州大学 - 10
+* 加州大学UCLA - 16
+* 卡耐基梅隆 - 3
+* 弗吉尼亚大学 - 14
+* 维克森林大学 - 3
+* 塔夫茨大学 - 1
+* 北卡教堂山 - 17
+* 纽约大学 - 23
+* 波士顿学院 - 8
+* 威廉玛丽学院 - 3
+* 罗切斯特大学 - 2
+* 布兰迪斯大学 - 7
+* 佐治亚理工 - 4
+* 凯斯西储 - 11
+* 加州大学圣巴巴拉 - 50
+* 波士顿大学 - 8
+* 东北大学 - 15
+* 杜兰大学 - 4
+* 伦斯勒理工 - 11
+* 加州大学欧文 - 45
+* 加州大学圣地亚哥 - 19
+* 佛罗里达大学 - 1
+* 里海大学 - 1
+* 加州大学戴维斯 - 43
+* 马里兰大学 - 1
+* 威斯康星麦迪逊 - 35
+* 伊利诺伊香槟 - 30
+* 宾夕法尼亚州立 - 48
+* 俄亥俄州州立大学 - 66
+* 华盛顿大学西雅图 - 26
+* 乔治华盛顿大学 - 7
+* 德州大学奥斯丁 - 1
+* 普渡大学西拉法叶 - 17
+* 帝国理工 - 9
+* 滑铁卢大学 - 2
 
  
