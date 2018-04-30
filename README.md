@@ -287,6 +287,7 @@
 
 ### `Georgia Institute of Technology (公立常春藤)`
 #### 排名
+- [USNews 排名：35](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：6](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [本科计算机排名：13](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
