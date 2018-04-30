@@ -345,7 +345,7 @@
 ### University of Waterloo
 - [QS全球数学排名39](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://uwaterloo.ca)
-- [](https://en.wikipedia.org/wiki/University_of_Waterloo)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Waterloo)
 
 
 
