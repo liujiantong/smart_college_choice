@@ -10,8 +10,7 @@
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
 - [US News](https://www.usnews.com/best-colleges/harvey-mudd-college-1171)
 
-### `5. Cornell University`
-- []()
+### 5. Cornell University
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
 - [CDS](http://irp.dpb.cornell.edu/wp-content/uploads/2018/03/CDS_2017-2018-v3.pdf)
 - [官网](https://www.cornell.edu/)
@@ -35,7 +34,7 @@
 - [Niche](https://www.niche.com/colleges/pomona-college/)
 - [US News](https://www.usnews.com/best-colleges/pomona-college-1173)
 
-### 9. Washington University in St Louis
+### `9. Washington University in St Louis`
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：16](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](https://wustl.edu/wp-content/uploads/2018/01/wustl-cds-2016-2017.pdf)
@@ -320,6 +319,7 @@
 
 ### `Stony Brook University (纽约州立大学分校, 公立常春藤)`
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+- [本科计算机排名：85](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
 - [官网](http://www.stonybrook.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Stony_Brook_University)
