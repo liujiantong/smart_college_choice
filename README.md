@@ -218,10 +218,52 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
 ### <a name="nyu"/>`22. New York University`
+#### 排名
 - [USNews 排名：36](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：9](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：18](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
-- [CDS](https://www.nyu.edu/dam/nyu/institutionalResearch/documents/CDS%202014-2015.pdf)
+
+#### [CDS](https://www.nyu.edu/dam/nyu/institutionalResearch/documents/CDS%202014-2015.pdf)
+
+#### 申请
+- ED
+	- 截止日：November 1
+- RD
+	- 截止日：January 1
+- 录取率：32%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Standardized test scores
+		- Class rank
+		- Talent/ability
+	- 重要
+		- Application Essay
+		- Recommendation(s)
+		- Extracurricular activities
+		- Character/personal qualities
+	- 考虑
+		- Volunteer work
+		- Work experience
+		- Level of applicant’s interest
+
+- 申请成绩
+	- SAT
+		- 1250-1480
+		- 阅读写作：[620, 720]
+		- 数学：[630, 740]
+
+#### 费用
+- 学费： $45,278
+- 其他： $2,472 + $17,580
+
+#### 价值
+- 毕业率：85%
+- 2年后就业率：91%
+- 2年后年薪中位数：$46,800
+
+#### 其他链接
 - [官网](https://www.nyu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/New_York_University)
 - [Niche](https://www.niche.com/colleges/new-york-university/)
@@ -246,13 +288,54 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-texas-3658)
 
 ### <a name="rice"/>`26. Rice University`
+#### 排名
 - [USNews 排名：15](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](https://oir.rice.edu/sites/g/files/bxs1496/f/3.%20CDS_2016-2017_WEBSITE%281%29_0.pdf)
+
+#### [CDS](https://oir.rice.edu/sites/g/files/bxs1496/f/3.%20CDS_2016-2017_WEBSITE%281%29_0.pdf)
+
+#### 申请
+- ED
+	- 截止日：November 1, 2017
+- RD
+	- 截止日：January 1, 2018
+- 录取率：15%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Standardized test scores
+		- Class rank
+		- Recommendation(s)
+		- Talent/ability
+		- Extracurricular activities
+	- 重要
+		- Volunteer work
+		- Work experience
+		- Character/personal qualities
+
+- 申请成绩
+	- SAT
+		- 1410-1570
+		- 阅读写作：[690, 770]
+		- 数学：[720, 800]
+
+#### 费用
+- 学费： $44,900
+- 其他： $708 + $13,850
+
+#### 价值
+- 毕业率：93%
+- 2年后就业率：91%
+- 2年后年薪中位数：$54,200
+
+#### 其他链接
 - [官网](http://www.rice.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Rice_University)
 - [Niche](https://www.niche.com/colleges/rice-university/)
 - [US News](https://www.usnews.com/best-colleges/rice-3604)
+
 
 ### <a name="uci"/>`28. University of California - Irvine (公立常春藤)`
 #### 排名
@@ -307,6 +390,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-california---irvine/)
 - [US News](https://www.usnews.com/best-colleges/uc-irvine-1314)
 
+
 ### <a name="wisc"/>`29. University of Wisconsin - Madison (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：44](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -316,6 +400,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
 - [Niche](https://www.niche.com/colleges/university-of-wisconsin/)
 - [US News](https://www.usnews.com/best-colleges/university-of-wisconsin-3895)
+
 
 ### `30. University of Washington - Seattle Campus (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -327,12 +412,14 @@
 - [Niche](https://www.niche.com/colleges/university-of-washington/)
 - [US News](https://www.usnews.com/best-colleges/university-of-washington-3798)
 
+
 ### 31. Boston College
 - [CDS](https://www.bc.edu/content/dam/files/publications/factbook/pdf/17_18/17-18_factbook.pdf)
 - [官网](https://www.bc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Boston_College)
 - [Niche](https://www.niche.com/colleges/boston-college/)
 - [US News](https://www.usnews.com/best-colleges/boston-college-2128)
+
 
 ### `32. University of Virginia - Main Campus (公立常春藤)`
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -343,12 +430,14 @@
 - [Niche](https://www.niche.com/colleges/university-of-virginia/)
 - [US News](https://www.usnews.com/best-colleges/uva-6968)
 
+
 ### 33. College of the Holy Cross
 - [CDS](https://www.holycross.edu/sites/default/files/files/planningandspecialproj/cds_2017-2018.pdf)
 - [官网](https://www.holycross.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/College_of_the_Holy_Cross)
 - [Niche](https://www.niche.com/colleges/college-of-the-holy-cross/)
 - [US News](https://www.usnews.com/best-colleges/holy-cross-2141)
+
 
 ### 34. Worcester Polytechnic Institute
 - [本科计算机排名：2](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
@@ -357,6 +446,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute)
 - [Niche](https://www.niche.com/colleges/worcester-polytechnic-institute/)
 - [US News](https://www.usnews.com/best-colleges/wpi-2233)
+
 
 ### <a name="illinois"/>`35. University of Illinois at Urbana - Champaign (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -368,6 +458,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-illinois-at-urbana-champaign/)
 - [US News](https://www.usnews.com/best-colleges/uiuc-1775)
 
+
 ### `36. Rutgers University - New Brunswick (公立常春藤)`
 - [USNews 排名：70](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -376,6 +467,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Rutgers_University%E2%80%93New_Brunswick)
 - [Niche](https://www.niche.com/colleges/rutgers-university/)
 - [US News](https://www.usnews.com/best-colleges/rutgers-new-brunswick-6964)
+
 
 ### `38. University of Maryland - College Park (公立常春藤)`
 - [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -387,6 +479,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-maryland---college-park/)
 - [US News](https://www.usnews.com/best-colleges/university-of-maryland-2103)
 
+
 ### <a name="psu"/>`41. Pennsylvania State University - Main Campus (公立常春藤)`
 - [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：32](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -396,6 +489,7 @@
 - [Niche](https://www.niche.com/colleges/penn-state/)
 - [US News](https://www.usnews.com/best-colleges/penn-state-6965)
 
+
 ### 42. University of Connecticut (公立常春藤)
 - [US News 全美数学排名：71](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oire.uconn.edu/wp-content/uploads/sites/35/2017/10/CDS_2016_2017.pdf)
@@ -403,6 +497,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Connecticut)
 - [Niche](https://www.niche.com/colleges/university-of-connecticut/)
 - [US News](https://www.usnews.com/best-colleges/uconn-29013)
+
 
 ### <a name="purdue"/>`44. Purdue University - Main Campus (公立常春藤)`
 - [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -414,6 +509,7 @@
 - [Niche](https://www.niche.com/colleges/purdue-university/)
 - [US News](https://www.usnews.com/best-colleges/purdue-1825)
 
+
 ### 47. Boston University
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -422,6 +518,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Boston_University)
 - [Niche](https://www.niche.com/colleges/boston-university/)
 - [US News](https://www.usnews.com/best-colleges/boston-university-2130)
+
 
 ### `49. University of Florida (公立常春藤)`
 - [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -432,6 +529,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-florida/)
 - [US News](https://www.usnews.com/best-colleges/university-of-florida-1535)
 
+
 ### <a name="ucsd"/>`51. University of California - San Diego (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -441,6 +539,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
 - [Niche](https://www.niche.com/colleges/university-of-california---san-diego/)
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
+
 
 ### <a name="rpi/>`57. Rensselaer Polytechnic Institute (公立常春藤)`
 #### 排名
@@ -528,6 +627,7 @@
 - 2年后就业率：90%
 - 2年后年薪中位数：$36,000/ year
 
+
 ### <a name="unc"/>`University of North Carolina at Chapel Hill (公立常春藤)`
 #### 排名
 - [USNews 排名：30](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -546,12 +646,14 @@
 - 2年后就业率：93%
 - 2年后年薪中位数：$39,700/ year
 	
+
 ### College of William & Mary in Virginia (公立常春藤)
 - [CDS](https://www.wm.edu/offices/ir/documents/cds/cds1718.xlsx)
 - [官网](https://www.wm.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/College_of_William_%26_Mary)
 - [Niche](https://www.niche.com/colleges/college-of-william--and--mary/)
 - [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
+
 
 ### <a name="gatech"/>`Georgia Institute of Technology (公立常春藤)`
 #### 排名
@@ -625,12 +727,14 @@
 - [Niche](https://www.niche.com/colleges/georgia-institute-of-technology/)
 - [US News](https://www.usnews.com/best-colleges/georgia-tech-1569)
 
+
 ### `University of Minnesota, Twin Cities (公立常春藤)`
 - [USNews 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://twin-cities.umn.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Minnesota)
 - [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
 - [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
+
 
 ### <a name="osu"/>`Ohio State University (公立常春藤)`
 - [USNews 排名：54](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -646,12 +750,14 @@
 - 2年后就业率：93%
 - 2年后年薪中位数：$36,000/ year
 
+
 ### Binghamton University (纽约州立大学分校, 公立常春藤)
 - [CDS](https://www.binghamton.edu/oira/cds/cds_1718.pdf)
 - [官网](https://www.binghamton.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Binghamton_University)
 - [Niche](https://www.niche.com/colleges/binghamton-university-suny/)
 - [US News](https://www.usnews.com/best-colleges/suny-binghamton-2836)
+
 
 ### <a name="stonybrook"/>`Stony Brook University (纽约州立大学分校, 公立常春藤)`
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -667,12 +773,14 @@
 - 2年后就业率：90%
 - 2年后年薪中位数：$38,200/ year
 
+
 ### Carleton College
 - [CDS](https://apps.carleton.edu/campus/ira/assets/CDS_2016_2017_completed_with_Part_G.pdf)
 - [官网](https://www.unc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Carleton_College)
 - [Niche](https://www.niche.com/colleges/carleton-college/)
 - [US News](https://www.usnews.com/best-colleges/carleton-college-2340)
+
 
 ### Brandeis University
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -682,13 +790,6 @@
 - [Niche](https://www.niche.com/colleges/brandeis-university/)
 - [US News](https://www.usnews.com/best-colleges/brandeis-university-2133)
 
-### University of Cambridge
-- [官网](https://www.cam.ac.uk/)
-- [Apply](https://www.undergraduate.study.cam.ac.uk/applying)
-- [Requirements](https://www.undergraduate.study.cam.ac.uk/applying/entrance-requirements)
-- [Deadline](https://www.undergraduate.study.cam.ac.uk/applying/dates-and-deadlines)
-- [Math](https://www.undergraduate.study.cam.ac.uk/courses/mathematics)
-- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Cambridge)
 
 ### <a name="imperial"/>`Imperial College, London`
 - [MAT]
@@ -703,6 +804,7 @@
 - [MAT2016](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT2016.pdf)
 - [Wikipedia](https://en.wikipedia.org/wiki/Imperial_College_London)
 - [US News](https://www.usnews.com/education/best-global-universities/imperial-college-london-505571)
+
 
 ### University of Waterloo
 - [QS全球数学排名39](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
