@@ -6,9 +6,9 @@
 * [University of Michigan - Ann Arbor](#umich)
 * [New York University](#nyu)
 * [Rice University](#rice)
+* [Carnegie Mellon University](#cmu)
 
 ## RD选项
-* [Carnegie Mellon University](#cmu)
 * [University of California - Berkeley](#berkeley)
 * [University of California - Los Angeles](#ucla)
 * [Northwestern University](#northwestern)
@@ -94,8 +94,12 @@
 - [US News](https://www.usnews.com/best-colleges/harvey-mudd-college-1171)
 
 ### 5. Cornell University
+#### 排名
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](http://irp.dpb.cornell.edu/wp-content/uploads/2018/03/CDS_2017-2018-v3.pdf)
+
+#### [CDS](http://irp.dpb.cornell.edu/wp-content/uploads/2018/03/CDS_2017-2018-v3.pdf)
+
+#### 其他链接
 - [官网](https://www.cornell.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Cornell_University)
 - [Niche](https://www.niche.com/colleges/cornell-university/)
@@ -189,6 +193,7 @@
 - [Niche](https://www.niche.com/colleges/northwestern-university/)
 - [US News](https://www.usnews.com/best-colleges/northwestern-1739)
 
+
 ### <a name="berkeley>`17. University of California - Berkeley (公立常春藤)`
 - [USNews 排名：20](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -199,13 +204,19 @@
 - [Niche](https://www.niche.com/colleges/university-of-california---berkeley/)
 - [US News](https://www.usnews.com/best-colleges/uc-berkeley-1312)
 
+
 ### <a name="cmu"/>`18. Carnegie Mellon University`
+#### 排名
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
-- [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
+
+#### [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
+
+#### 其他链接
 - [官网](https://www.cmu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Mellon_University)
 - [Niche](https://www.niche.com/colleges/carnegie-mellon-university/)
 - [US News](https://www.usnews.com/best-colleges/carnegie-mellon-university-3242)
+
 
 ### <a name="umich"/>`19. University of Michigan - Ann Arbor (公立常春藤)`
 - [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
