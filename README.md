@@ -40,6 +40,42 @@
 
 #### [CDS](https://finance.provost.duke.edu/sites/default/files/documents/CDS_2016-2017.pdf)
 
+#### 申请
+- ED
+	- 截止日：November 1
+- RD
+	- 截止日：January 3
+- 录取率：10%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Recommendation(s)
+		- Standardized test scores
+		- Extracurricular activities
+		- Talent/ability
+		- Character/personal qualities
+	- 考虑
+		- Class rank
+		- Volunteer work
+		- Work experience
+		- Interview
+- 申请成绩
+	- SAT
+		- 1380-1570
+		- 阅读写作：[680, 770]
+		- 数学：[700, 800]
+
+#### 费用
+- 学费： $51,720
+- 其他： $1,780 + $14,798
+
+#### 价值
+- 毕业率：95%
+- 2年后就业率：94%
+- 2年后年薪中位数：$68,800/ year
+
 #### 其他链接
 - [官网](https://www.duke.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Duke_University)
