@@ -1,24 +1,24 @@
 # Smart college choice
 
 ## ED/EA选项
-* [Georgia Institute of Technology](#gatech)
-* [Harvey Mudd College](#hmc)
-* [University of Michigan - Ann Arbor](#umich)
-* [New York University](#nyu)
+* [Duke University](#duke)
 * [Rice University](#rice)
 * [Carnegie Mellon University](#cmu)
-* [Duke University](#duke)
+* [Harvey Mudd College](#hmc)
+* [Georgia Institute of Technology](#gatech)
+* [University of Michigan - Ann Arbor](#umich)
+* [New York University](#nyu)
 
 ## RD选项
+* [Northwestern University](#northwestern)
+* [Washington University in St Louis](#wustl)
 * [University of California - Berkeley](#berkeley)
 * [University of California - Los Angeles](#ucla)
-* [Northwestern University](#northwestern)
 * [Imperial College, London](imperial)
 * [Rensselaer Polytechnic Institute](#rpi)
 * [University of North Carolina at Chapel Hill](#unc)
 * [University of California - Irvine](#uci)
 * [University of Illinois at Urbana - Champaign](#illinois)
-* [Washington University in St Louis](#wustl)
 
 ## 保底选项
 * [University of California - San Diego](ucsd)
@@ -145,6 +145,7 @@
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
 - [US News](https://www.usnews.com/best-colleges/harvey-mudd-college-1171)
 
+
 ### 5. Cornell University
 #### 排名
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -156,6 +157,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Cornell_University)
 - [Niche](https://www.niche.com/colleges/cornell-university/)
 - [US News](https://www.usnews.com/best-colleges/cornell-university-2711)
+
 
 ### <a name="ucla"/>`6. University of California - Los Angeles (公立常春藤)`
 #### 排名
@@ -229,12 +231,14 @@
 - [Niche](https://www.niche.com/colleges/washington-university-in-st-louis/)
 - [US News](https://www.usnews.com/best-colleges/washington-university-st-louis-2520)
 
+
 ### 10. Williams College
 - [CDS](https://provost.williams.edu/files/williams_cds_1718.pdf)
 - [官网](https://www.williams.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Williams_College)
 - [Niche](https://www.niche.com/colleges/williams-college/)
 - [US News](https://www.usnews.com/best-colleges/williams-college-2229)
+
 
 ### <a name="northwestern"/>`14. Northwestern University`
 - [USNews 排名：12](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -315,6 +319,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-michigan---ann-arbor/)
 - [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
+
 ### <a name="nyu"/>`22. New York University`
 #### 排名
 - [USNews 排名：36](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -367,6 +372,7 @@
 - [Niche](https://www.niche.com/colleges/new-york-university/)
 - [US News](https://www.usnews.com/best-colleges/nyu-2785)
 
+
 ### 23. Vanderbilt University
 - [US News 全美数学排名：44](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://virg.vanderbilt.edu/virgweb/vucds.aspx)
@@ -374,6 +380,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Vanderbilt_University)
 - [Niche](https://www.niche.com/colleges/vanderbilt-university/)
 - [US News](https://www.usnews.com/best-colleges/vanderbilt-3535)
+
 
 ### <a name="utexas"/>`24. University of Texas at Austin (公立常春藤)`
 - [USNews 排名：56](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -384,6 +391,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin)
 - [Niche](https://www.niche.com/colleges/university-of-texas---austin/)
 - [US News](https://www.usnews.com/best-colleges/university-of-texas-3658)
+
 
 ### <a name="rice"/>`26. Rice University`
 #### 排名
