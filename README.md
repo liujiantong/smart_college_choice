@@ -51,6 +51,15 @@
 - 2年后就业率：89%
 - 2年后年薪中位数：$65,200/ year
 
+#### 学生生活
+- 兄弟会：0%
+- 姐妹会：0%
+- 校内住宿比例：100%
+- 种族构成
+	- 白人：31%
+	- 亚洲人：13%
+	- 黑人：5%
+
 #### 其他链接
 - [官网](https://www.hmc.edu/)
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
@@ -74,9 +83,8 @@
 
 #### 申请
 - RD
+	- 开始申请日：August 1
 	- 截止日：November 30
-	- 文档截止日：February 15
-	- 决定日：April 1
 - 录取率：16%
 - 录取因素
 	- 非常重要
@@ -104,6 +112,15 @@
 - 毕业率：91%
 - 2年后就业率：88%
 - 2年后年薪中位数：$41,900/ year
+
+#### 学生生活
+- 兄弟会：11%
+- 姐妹会：13%
+- 校内住宿比例：48%
+- 种族构成
+	- 白人：27%
+	- 亚洲人：28%
+	- 黑人：2%
 
 #### 其他链接
 - [官网](http://www.ucla.edu/)
@@ -210,10 +227,53 @@
 - [US News](https://www.usnews.com/best-colleges/rice-3604)
 
 ### `28. University of California - Irvine (公立常春藤)`
+#### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：39](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：38](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/p4.html)
-- [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
+
+#### [CDS](http://www.oir.uci.edu/files/campus/CDS2017_18.pdf)
+
+#### 申请
+- RD
+	- 开始申请日：August 1
+	- 截止日：November 30
+- 录取率：36%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Standardized test scores
+		- Talent/ability
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+	- 重要
+		- Class rank
+		- Character/personal qualities
+
+- 申请成绩
+	- SAT
+		- 1060-1330
+		- 阅读写作：[580, 680]
+		- 数学：[590, 730]
+
+#### 费用
+- 学费： $39,516
+- 其他： $4,014 + $14,829
+
+#### 价值
+- 毕业率：87%
+- 2年后就业率：90%
+- 2年后年薪中位数：$38,500
+
+#### 学生生活
+- 兄弟会：8%
+- 姐妹会：9%
+- 校内住宿比例：41%
+
+#### 其他链接
 - [官网](https://uci.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Irvine)
 - [Niche](https://www.niche.com/colleges/university-of-california---irvine/)
@@ -355,19 +415,66 @@
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
 ### `57. Rensselaer Polytechnic Institute (公立常春藤)`
+#### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：55](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：34](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
-- [CDS](http://provost.rpi.edu/sites/default/files/CDS_2017-2018_0.pdf#overlay-context=institutional-research/common-datasets)
-- [官网](https://www.rpi.edu/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
-- [Niche](https://www.niche.com/colleges/rensselaer-polytechnic-institute/)
-- [US News](https://www.usnews.com/best-colleges/rpi-2803)
+
+#### [CDS](http://provost.rpi.edu/sites/default/files/CDS_2017-2018_0.pdf#overlay-context=institutional-research/common-datasets)
+
+#### 申请
+- ED 1
+	- 截止日：11/1
+	- 通知日：12/10
+- ED 2
+	- 截止日：12/15
+	- 通知日：1/13
+- RD
+	- 截止日：6/1
+- 录取率：43%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Class rank
+		- Standardized test scores
+	- 重要
+		- Application Essay
+		- Recommendation
+		- Extracurricular activities
+		- Level of applicant’s interest
+		- Character/personal qualities
+	- 考虑
+		- Talent/ability
+		- Volunteer work
+		- Work experience
+
+- 申请成绩
+	- SAT
+		- 1280-1480
+		- 阅读写作：[640, 730]
+		- 数学：[680, 770]
+
+#### 费用
+- 学费： $52,550
+- 其他： $1,330 + $15,260
+
+#### 学生生活
+- 兄弟会：30%
+- 姐妹会：16%
+- 校内住宿比例：57%
 
 #### 价值
 - 毕业率：80%
 - 2年后就业率：94%
 - 2年后年薪中位数：$63,100/ year
+
+#### 其他链接
+- [官网](https://www.rpi.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
+- [Niche](https://www.niche.com/colleges/rensselaer-polytechnic-institute/)
+- [US News](https://www.usnews.com/best-colleges/rpi-2803)
+
 
 ### `58. University of California - Davis (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
@@ -394,13 +501,22 @@
 - 2年后年薪中位数：$36,000/ year
 
 ### `University of North Carolina at Chapel Hill (公立常春藤)`
+#### 排名
 - [USNews 排名：30](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
+
+#### [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
+
+#### 其他链接
 - [官网](https://www.unc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill)
 - [Niche](https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/)
 - [US News](https://www.usnews.com/best-colleges/unc-2974)
+
+#### 价值
+- 毕业率：91%
+- 2年后就业率：93%
+- 2年后年薪中位数：$39,700/ year
 	
 ### College of William & Mary in Virginia (公立常春藤)
 - [CDS](https://www.wm.edu/offices/ir/documents/cds/cds1718.xlsx)
@@ -456,6 +572,11 @@
 - 学费： $30,604
 - 其他： $2,410 + $14,126
 
+#### 价值
+- 毕业率：86%
+- 2年后就业率：95%
+- 2年后年薪中位数：$61,800/ year
+
 #### 学生生活
 - [新生概要](http://admission.gatech.edu/images/pdf/2017_freshman_profilef.pdf)
 - 兄弟会：26%
@@ -464,11 +585,6 @@
 	- 白人：52%
 	- 亚洲人：23
 	- 黑人：7%
-
-#### 价值
-- 毕业率：86%
-- 2年后就业率：95%
-- 2年后年薪中位数：$61,800/ year
 
 #### 环境
 - 佐治亚州亚特兰大
