@@ -639,7 +639,7 @@
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
 
-### <a name="rpi/>`57. Rensselaer Polytechnic Institute (公立常春藤)`
+### <a name="rpi"/>`57. Rensselaer Polytechnic Institute (公立常春藤)`
 #### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：55](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
