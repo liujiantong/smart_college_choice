@@ -8,9 +8,11 @@
 * [Rice University](#rice)
 
 ## RD选项
+* [Carnegie Mellon University](#cmu)
 * [University of California - Berkeley](#berkeley)
 * [University of California - Los Angeles](#ucla)
 * [Northwestern University](#northwestern)
+* [Imperial College, London](imperial)
 * [Rensselaer Polytechnic Institute](#rpi)
 * [University of North Carolina at Chapel Hill](#unc)
 * [University of California - Irvine](#uci)
@@ -197,7 +199,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-california---berkeley/)
 - [US News](https://www.usnews.com/best-colleges/uc-berkeley-1312)
 
-### 18. Carnegie Mellon University
+### <a name="cmu"/>`18. Carnegie Mellon University`
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
 - [官网](https://www.cmu.edu/)
@@ -688,7 +690,7 @@
 - [Math](https://www.undergraduate.study.cam.ac.uk/courses/mathematics)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Cambridge)
 
-### `Imperial College, London`
+### <a name="imperial"/>`Imperial College, London`
 - [MAT]
 - [QS全球数学排名10](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [官网](https://www.imperial.ac.uk/)
