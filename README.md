@@ -7,6 +7,7 @@
 * [New York University](#nyu)
 * [Rice University](#rice)
 * [Carnegie Mellon University](#cmu)
+* [Duke University](#duke)
 
 ## RD选项
 * [University of California - Berkeley](#berkeley)
@@ -30,6 +31,21 @@
 
 
 ## [2018 Best Mathematics Colleges in the U.S.](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
+
+
+#### <a name="duke"/>`Duke University`
+#### 排名
+- [USNews 排名：9](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [USNews 数学：16](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+
+#### [CDS](https://finance.provost.duke.edu/sites/default/files/documents/CDS_2016-2017.pdf)
+
+#### 其他链接
+- [官网](https://www.duke.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Duke_University)
+- [Niche](https://www.niche.com/colleges/duke-university/)
+- [US News](https://www.usnews.com/best-colleges/duke-university-2920)
+
 
 ### <a name="hmc"/>`2. Harvey Mudd College`
 #### 排名
@@ -194,7 +210,7 @@
 - [US News](https://www.usnews.com/best-colleges/northwestern-1739)
 
 
-### <a name="berkeley>`17. University of California - Berkeley (公立常春藤)`
+### <a name="berkeley"/>`17. University of California - Berkeley (公立常春藤)`
 - [USNews 排名：20](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -210,6 +226,41 @@
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 
 #### [CDS](https://www.cmu.edu/ira/CDS/pdf/cds_2017-18/cds-2017-18.pdf)
+
+#### 申请
+- ED
+	- 截止日：November 1
+- RD
+	- 截止日：January 1
+- 录取率：17%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Class rank
+		- Standardized test scores
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+	- 重要
+		- Application Essay
+		- Talent/ability
+		- Character/personal qualities
+		- Racial/ethnic status
+- 申请成绩
+	- SAT
+		- 1380-1550
+		- 阅读写作：[700, 760]
+		- 数学：[730, 800]
+
+#### 费用
+- 学费： $54,244
+- 其他： $1,221 + $14,418
+
+#### 价值
+- 毕业率：90%
+- 2年后就业率：91%
+- 2年后年薪中位数：$67,200/ year
 
 #### 其他链接
 - [官网](https://www.cmu.edu/)
@@ -824,6 +875,12 @@
 
 
 # 2018届 ICC录取部分名单
+* 哈佛大学 - 1
+* 芝加哥大学 - 1
+* 耶鲁大学 - 1
+* 杜克大学 - 2
+* 约翰霍普金斯大学 - 2
+* 达特茅斯学院 - 1
 * 西北大学 - 1
 * 康奈尔大学 - 1
 * 莱斯大学 - 2
