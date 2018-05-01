@@ -1,5 +1,8 @@
 # Smart college choice
 
+## 早申选项
+* [Georgia Institute of Technology](#gatech)
+
 
 ## [2018 Best Mathematics Colleges in the U.S.](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
 
@@ -525,7 +528,7 @@
 - [Niche](https://www.niche.com/colleges/college-of-william--and--mary/)
 - [US News](https://www.usnews.com/best-colleges/william-and-mary-3705)
 
-### `Georgia Institute of Technology (公立常春藤)`
+### <a name="gatech"/>`Georgia Institute of Technology (公立常春藤)`
 #### 排名
 - [USNews 排名：35](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
