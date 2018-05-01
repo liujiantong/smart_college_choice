@@ -1,12 +1,35 @@
 # Smart college choice
 
-## 早申选项
+## ED/EA选项
 * [Georgia Institute of Technology](#gatech)
+* [Harvey Mudd College](#hmc)
+* [University of Michigan - Ann Arbor](#umich)
+* [New York University](#nyu)
+* [Rice University](#rice)
+
+## RD选项
+* [University of California - Berkeley](#berkeley)
+* [University of California - Los Angeles](#ucla)
+* [Northwestern University](#northwestern)
+* [Rensselaer Polytechnic Institute](#rpi)
+* [University of North Carolina at Chapel Hill](#unc)
+* [University of California - Irvine](#uci)
+* [University of Illinois at Urbana - Champaign](#illinois)
+* [Washington University in St Louis](#wustl)
+
+## 保底选项
+* [University of California - San Diego](ucsd)
+* [University of Texas at Austin](#utexas)
+* [Ohio State University](#osu)
+* [Pennsylvania State University - Main Campus](#psu)
+* [Stony Brook University](#stonybrook)
+* [Purdue University - Main Campus](#purdue)
+* [University of Wisconsin - Madison](#wisc)
 
 
 ## [2018 Best Mathematics Colleges in the U.S.](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
 
-### `2. Harvey Mudd College`
+### <a name="hmc"/>`2. Harvey Mudd College`
 #### 排名
 - [USNews文理学院排名：21](https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges)
 - [本科数学排名：2](https://www.collegefactual.com/majors/mathematics-and-statistics/mathematics/rankings/top-ranked/p1.html)
@@ -76,7 +99,7 @@
 - [Niche](https://www.niche.com/colleges/cornell-university/)
 - [US News](https://www.usnews.com/best-colleges/cornell-university-2711)
 
-### `6. University of California - Los Angeles (公立常春藤)`
+### <a name="ucla"/>`6. University of California - Los Angeles (公立常春藤)`
 #### 排名
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：7](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -138,7 +161,7 @@
 - [Niche](https://www.niche.com/colleges/pomona-college/)
 - [US News](https://www.usnews.com/best-colleges/pomona-college-1173)
 
-### `9. Washington University in St Louis`
+### <a name="wustl"/>`9. Washington University in St Louis`
 - [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：16](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
@@ -155,7 +178,7 @@
 - [Niche](https://www.niche.com/colleges/williams-college/)
 - [US News](https://www.usnews.com/best-colleges/williams-college-2229)
 
-### `14. Northwestern University`
+### <a name="northwestern"/>`14. Northwestern University`
 - [USNews 排名：12](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](http://enrollment.northwestern.edu/pdf/common-data/2016-17.pdf)
@@ -164,7 +187,7 @@
 - [Niche](https://www.niche.com/colleges/northwestern-university/)
 - [US News](https://www.usnews.com/best-colleges/northwestern-1739)
 
-### `17. University of California - Berkeley (公立常春藤)`
+### <a name="berkeley>`17. University of California - Berkeley (公立常春藤)`
 - [USNews 排名：20](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -182,7 +205,7 @@
 - [Niche](https://www.niche.com/colleges/carnegie-mellon-university/)
 - [US News](https://www.usnews.com/best-colleges/carnegie-mellon-university-3242)
 
-### `19. University of Michigan - Ann Arbor (公立常春藤)`
+### <a name="umich"/>`19. University of Michigan - Ann Arbor (公立常春藤)`
 - [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：27](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：7](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -192,7 +215,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-michigan---ann-arbor/)
 - [US News](https://www.usnews.com/best-colleges/university-of-michigan-9092)
 
-### `22. New York University`
+### <a name="nyu"/>`22. New York University`
 - [USNews 排名：36](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：9](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：18](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
@@ -210,7 +233,7 @@
 - [Niche](https://www.niche.com/colleges/vanderbilt-university/)
 - [US News](https://www.usnews.com/best-colleges/vanderbilt-3535)
 
-### `24. University of Texas at Austin (公立常春藤)`
+### <a name="utexas"/>`24. University of Texas at Austin (公立常春藤)`
 - [USNews 排名：56](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：14](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：8](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -220,7 +243,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-texas---austin/)
 - [US News](https://www.usnews.com/best-colleges/university-of-texas-3658)
 
-### `26. Rice University`
+### <a name="rice"/>`26. Rice University`
 - [USNews 排名：15](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oir.rice.edu/sites/g/files/bxs1496/f/3.%20CDS_2016-2017_WEBSITE%281%29_0.pdf)
@@ -229,7 +252,7 @@
 - [Niche](https://www.niche.com/colleges/rice-university/)
 - [US News](https://www.usnews.com/best-colleges/rice-3604)
 
-### `28. University of California - Irvine (公立常春藤)`
+### <a name="uci"/>`28. University of California - Irvine (公立常春藤)`
 #### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：39](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -282,7 +305,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-california---irvine/)
 - [US News](https://www.usnews.com/best-colleges/uc-irvine-1314)
 
-### `29. University of Wisconsin - Madison (公立常春藤)`
+### <a name="wisc"/>`29. University of Wisconsin - Madison (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：44](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -333,7 +356,7 @@
 - [Niche](https://www.niche.com/colleges/worcester-polytechnic-institute/)
 - [US News](https://www.usnews.com/best-colleges/wpi-2233)
 
-### `35. University of Illinois at Urbana - Champaign (公立常春藤)`
+### <a name="illinois"/>`35. University of Illinois at Urbana - Champaign (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：5](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -362,7 +385,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-maryland---college-park/)
 - [US News](https://www.usnews.com/best-colleges/university-of-maryland-2103)
 
-### `41. Pennsylvania State University - Main Campus (公立常春藤)`
+### <a name="psu"/>`41. Pennsylvania State University - Main Campus (公立常春藤)`
 - [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：32](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://budget.psu.edu/CDS/Campus.aspx?AY=20172018&Location=UP&displayNewTuition=n)
@@ -379,7 +402,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-connecticut/)
 - [US News](https://www.usnews.com/best-colleges/uconn-29013)
 
-### `44. Purdue University - Main Campus (公立常春藤)`
+### <a name="purdue"/>`44. Purdue University - Main Campus (公立常春藤)`
 - [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：12](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -407,7 +430,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-florida/)
 - [US News](https://www.usnews.com/best-colleges/university-of-florida-1535)
 
-### `51. University of California - San Diego (公立常春藤)`
+### <a name="ucsd"/>`51. University of California - San Diego (公立常春藤)`
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
@@ -417,7 +440,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-california---san-diego/)
 - [US News](https://www.usnews.com/best-colleges/ucsd-1317)
 
-### `57. Rensselaer Polytechnic Institute (公立常春藤)`
+### <a name="rpi/>`57. Rensselaer Polytechnic Institute (公立常春藤)`
 #### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：55](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -492,7 +515,7 @@
 ## 其他选择
 
 ### `University of California - Santa Barbara`
-- [USNews 排名：37](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [USNews 排名：38](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [官网](https://www.ucsb.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara)
 - [Niche](https://www.niche.com/colleges/university-of-california---santa-barbara/)
@@ -503,7 +526,7 @@
 - 2年后就业率：90%
 - 2年后年薪中位数：$36,000/ year
 
-### `University of North Carolina at Chapel Hill (公立常春藤)`
+### <a name="unc"/>`University of North Carolina at Chapel Hill (公立常春藤)`
 #### 排名
 - [USNews 排名：30](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：34](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
@@ -607,7 +630,7 @@
 - [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
 - [US News](https://www.usnews.com/best-colleges/university-of-minnesota-3969)
 
-### `Ohio State University (公立常春藤)`
+### <a name="osu"/>`Ohio State University (公立常春藤)`
 - [USNews 排名：54](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
@@ -628,7 +651,7 @@
 - [Niche](https://www.niche.com/colleges/binghamton-university-suny/)
 - [US News](https://www.usnews.com/best-colleges/suny-binghamton-2836)
 
-### `Stony Brook University (纽约州立大学分校, 公立常春藤)`
+### <a name="stonybrook"/>`Stony Brook University (纽约州立大学分校, 公立常春藤)`
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：85](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
 - [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
