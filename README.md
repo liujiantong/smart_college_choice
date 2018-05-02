@@ -898,16 +898,22 @@
 
 
 ### <a name="imperial"/>`Imperial College, London`
-- [MAT]
+#### 排名
 - [QS全球数学排名10](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [官网](https://www.imperial.ac.uk/)
+
+#### 申请
 - [Apply](http://www.imperial.ac.uk/study/ug/apply/)
 - [Math major](http://www.imperial.ac.uk/mathematics/)
 - [Math Computer](http://www.imperial.ac.uk/study/ug/courses/computing-department/mathematics-computer-science-meng/)
 - [Math Finance](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-statistics-finance-bsc/)
 - [Math abroad](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-europe-msci/)
+
+#### MAT
 - [MAT](https://www.tutorfair.com/resource/84/mat-past-papers)
 - [MAT2016](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT2016.pdf)
+
+#### 其他链接
+- [官网](https://www.imperial.ac.uk/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Imperial_College_London)
 - [US News](https://www.usnews.com/education/best-global-universities/imperial-college-london-505571)
 
