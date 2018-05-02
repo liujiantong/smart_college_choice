@@ -310,10 +310,50 @@
 
 
 ### <a name="umich"/>`19. University of Michigan - Ann Arbor (公立常春藤)`
+#### 排名
 - [USNews 排名：19](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：27](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：7](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](http://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2016-2017_umaa.pdf)
+
+#### [CDS](http://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2016-2017_umaa.pdf)
+
+- EA
+	- 截止日：November 1
+- RD
+	- 截止日：February 1
+- 录取率：26%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+	- 重要
+		- Class rank
+		- Standardized test scores
+		- Application Essay
+		- Character/personal qualities
+	- 考虑
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+		- Talent/ability
+		
+		- Racial/ethnic status
+- 申请成绩
+	- SAT
+		- 1310-1500
+		- 阅读写作：[640, 730]
+		- 数学：[670, 770]
+
+#### 费用
+- 学费： $45,082
+- 其他： $328 + $10,872
+
+#### 价值
+- 毕业率：91%
+- 2年后就业率：93%
+- 2年后年薪中位数：$49,600/ year
+
+#### 其他链接
 - [官网](https://www.umich.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Michigan)
 - [Niche](https://www.niche.com/colleges/university-of-michigan---ann-arbor/)
