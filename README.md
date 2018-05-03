@@ -241,9 +241,51 @@
 
 
 ### <a name="northwestern"/>`14. Northwestern University`
+#### 排名
 - [USNews 排名：12](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：22](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](http://enrollment.northwestern.edu/pdf/common-data/2016-17.pdf)
+
+#### [CDS](http://enrollment.northwestern.edu/pdf/common-data/2016-17.pdf)
+
+#### 申请
+- ED
+	- 截止日：November 1
+- RD
+	- 截止日：January 1
+- 录取率：11%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Class rank
+		- Standardized test scores
+	- 重要
+		- Application Essay
+		- Recommendation(s)
+		- Extracurricular activities
+		- Talent/ability
+		- Character/personal qualities
+	- 考虑
+		- Volunteer work
+		- Work experience
+		- Racial/ethnic status
+		- Level of applicant’s interest
+- 申请成绩
+	- SAT
+		- 1400-1560
+		- 阅读写作：[690, 760]
+		- 数学：[710, 800]
+
+#### 费用
+- 学费： $52,239
+- 其他： $439 + $16,047
+
+#### 价值
+- 毕业率：94%
+- 2年后就业率：93%
+- 2年后年薪中位数：$57,300/ year
+
+#### 其他链接
 - [官网](https://www.northwestern.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Northwestern_University)
 - [Niche](https://www.niche.com/colleges/northwestern-university/)
@@ -251,10 +293,46 @@
 
 
 ### <a name="berkeley"/>`17. University of California - Berkeley (公立常春藤)`
+#### 排名
 - [USNews 排名：20](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：2](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：2](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18_0.xlsx)
+
+#### [CDS](https://opa.berkeley.edu/sites/default/files/uc_berkeley_cds_2017-18_0.xlsx)
+
+#### 申请
+- RD
+	- 截止日：November 30
+- 录取率：15%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Application Essay
+		- Standardized test scores
+	- 重要
+		- Volunteer work
+		- Work experience
+		- Extracurricular activities
+		- Character/personal qualities
+	- 考虑
+		- Recommendation(s)
+- 申请成绩
+	- SAT
+		- 1270-1540
+		- 阅读写作：[650, 750]
+		- 数学：[650, 780]
+
+#### 费用
+- 学费： $39,516
+- 其他： $2,668 + $15,716
+
+#### 价值
+- 毕业率：92%
+- 2年后就业率：87%
+- 2年后年薪中位数：$46,000/ year
+
+#### 其他链接
 - [官网](https://www.berkeley.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)
 - [Niche](https://www.niche.com/colleges/university-of-california---berkeley/)
