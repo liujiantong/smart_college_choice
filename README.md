@@ -859,16 +859,48 @@
 
 #### [CDS](https://oira.unc.edu/files/2018/03/CDS_2017-2018_20180315.pdf)
 
-#### 其他链接
-- [官网](https://www.unc.edu/)
-- [Wikipedia](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill)
-- [Niche](https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/)
-- [US News](https://www.usnews.com/best-colleges/unc-2974)
+#### 申请
+- EA
+	- 截止日：October 15
+- RD
+	- 截止日：January 15
+- 录取率：23%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Application Essay
+		- Recommendation(s)
+		- Standardized test scores
+		- Extracurricular activities
+		- Talent/ability
+		- Character/personal qualities
+	- 重要
+		- Academic GPA
+		- Class rank
+		- Volunteer work
+		- Work experience
+	- 考虑
+		- Racial/ethnic status
+- 申请成绩
+	- SAT
+		- 1210-1420
+		- 阅读写作：[640, 720]
+		- 数学：[620, 720]
+
+#### 费用
+- 学费： $33,202
+- 其他： $1,967 + $11,190
 
 #### 价值
 - 毕业率：91%
 - 2年后就业率：93%
 - 2年后年薪中位数：$39,700/ year
+
+#### 其他链接
+- [官网](https://www.unc.edu/)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill)
+- [Niche](https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/)
+- [US News](https://www.usnews.com/best-colleges/unc-2974)
 	
 
 ### College of William & Mary in Virginia (公立常春藤)
