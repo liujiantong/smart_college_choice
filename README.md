@@ -1052,7 +1052,15 @@
 - [QS全球数学排名10](http://www.qianmu.org/2018QS%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 
 #### 申请
+##### 申请时间
+- opening date for admissions in October 2018: 01 September 2017.
+- deadline for submitting an application to the College: 15 October 2017
+- we need to receive evidence that you have met the academic condition of your offer by 20 August 2018.
+
+##### 申请链接
+-[Key Dates and Deadlines](http://www.imperial.ac.uk/study/ug/apply/how-to-apply/when-to-apply/)
 - [Apply](http://www.imperial.ac.uk/study/ug/apply/)
+- [Entry requirements](http://www.imperial.ac.uk/study/ug/courses/computing-department/mathematics-computer-science-meng/#entry-requirements)
 - [Math major](http://www.imperial.ac.uk/mathematics/)
 - [Math Computer](http://www.imperial.ac.uk/study/ug/courses/computing-department/mathematics-computer-science-meng/)
 - [Math Finance](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-statistics-finance-bsc/)
