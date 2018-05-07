@@ -1059,8 +1059,10 @@
 - [Math abroad](http://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-europe-msci/)
 
 #### MAT
-- [MAT](https://www.tutorfair.com/resource/84/mat-past-papers)
-- [MAT2016](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT2016.pdf)
+- [How to apply](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT_test.html)
+- [MAT](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
+- [Past papers](https://www.tutorfair.com/resource/84/mat-past-papers)
+- [MAT2017](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/MAT2017.pdf)
 
 #### 其他链接
 - [官网](https://www.imperial.ac.uk/)
