@@ -18,6 +18,7 @@
 * [Rensselaer Polytechnic Institute](#rpi)
 * [University of North Carolina at Chapel Hill](#unc)
 * [University of California - Irvine](#uci)
+* [University of Virginia - Main Campus](#virginia)
 * [University of Illinois at Urbana - Champaign](#illinois)
 
 ## 保底选项
@@ -645,10 +646,50 @@
 - [US News](https://www.usnews.com/best-colleges/boston-college-2128)
 
 
-### `32. University of Virginia - Main Campus (公立常春藤)`
+### <a name="virginia"/>`32. University of Virginia - Main Campus (公立常春藤)`
+#### 排名
 - [USNews 排名：24](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](http://ias.virginia.edu/cds-2017-18)
+
+#### [CDS](http://ias.virginia.edu/cds-2017-18)
+
+#### 申请
+- EA
+	- 截止日：November 1
+- RD
+	- 截止日：January 1
+- 录取率：26%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Class rank
+		- Academic GPA
+		- Recommendation(s)
+		- Character/personal qualities
+	- 重要
+		- Standardized test scores
+		- Application Essay
+		- Talent/ability
+		- Extracurricular activities
+	- 考虑
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1240-1460
+		- 阅读写作：[660, 740]
+		- 数学：[650, 760]
+
+#### 费用
+- 学费： $44,241
+- 其他： $2,732 + $11,220
+
+#### 价值
+- 毕业率：94%
+- 2年后就业率：93%
+- 2年后年薪中位数：$48,300/year
+
+#### 其他链接
 - [官网](http://www.virginia.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Virginia)
 - [Niche](https://www.niche.com/colleges/university-of-virginia/)
@@ -673,10 +714,50 @@
 
 
 ### <a name="illinois"/>`35. University of Illinois at Urbana - Champaign (公立常春藤)`
+#### 排名
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：5](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](http://www.dmi.illinois.edu/stuenr/misc/cds_2016_2017.xls)
+
+#### [CDS](http://www.dmi.illinois.edu/stuenr/misc/cds_2016_2017.xls)
+
+#### 申请
+- EA
+	- 截止日：November 1
+- RD
+	- 截止日：December 1
+- 录取率：55% (男生)
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+	- 重要
+		- Standardized test scores
+		- Application Essay
+		- Talent/ability
+		- Extracurricular activities
+	- 考虑
+		- Recommendation(s)
+		- Class rank
+		- Character/personal qualities
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1285-1480
+		- 阅读写作：[580, 690]
+		- 数学：[700, 790]
+
+#### 费用
+- 学费： $29,016
+- 其他： $3,832 + $11,308
+
+#### 价值
+- 毕业率：85%
+- 2年后就业率：94%
+- 2年后年薪中位数：$44,200/year
+
+#### 其他链接
 - [官网](http://illinois.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign)
 - [Niche](https://www.niche.com/colleges/university-of-illinois-at-urbana-champaign/)
