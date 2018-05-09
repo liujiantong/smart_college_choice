@@ -22,7 +22,7 @@
 * [University of Illinois at Urbana - Champaign](#illinois)
 
 ## 保底选项
-* [University of California - San Diego](ucsd)
+* [University of California - San Diego](#ucsd)
 * [University of Texas at Austin](#utexas)
 * [Ohio State University](#osu)
 * [Pennsylvania State University - Main Campus](#psu)
@@ -679,6 +679,7 @@
 		- 1240-1460
 		- 阅读写作：[660, 740]
 		- 数学：[650, 760]
+		- Essay：[17, 20]
 
 #### 费用
 - 学费： $44,241
@@ -836,10 +837,46 @@
 
 
 ### <a name="ucsd"/>`51. University of California - San Diego (公立常春藤)`
+#### 排名
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](https://ir.ucsd.edu/_files/stats-data/common-data-set/ucsd20162017.pdf)
+
+#### [CDS](https://ir.ucsd.edu/_files/stats-data/common-data-set/ucsd20162017.pdf)
+
+#### 申请
+- RD
+	- 截止日：November 30
+- 录取率：35% (男生)
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Standardized test scores
+		- Application Essay
+	- 重要
+		- Talent/ability
+		- Extracurricular activities
+		- Character/personal qualities
+		- Volunteer work
+	- 考虑
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1170-1450
+		- 阅读写作：[550, 670]
+		- 数学：[590, 750]
+
+#### 费用
+- 学费： $40,644
+- 其他： $3,553 + $13,254
+
+#### 价值
+- 毕业率：87%
+- 2年后就业率：88%
+- 2年后年薪中位数：$39,600/year
+
+#### 其他链接
 - [官网](https://ucsd.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
 - [Niche](https://www.niche.com/colleges/university-of-california---san-diego/)
