@@ -1150,9 +1150,48 @@
 
 
 ### <a name="osu"/>`Ohio State University (公立常春藤)`
+#### 排名
 - [USNews 排名：54](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
+
+#### [CDS](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/newark/CDS_2016-17_Survey_Newark.pdf)
+
+#### 申请
+- EA
+	- 截止日：November 1
+- RD
+	- 截止日：February 1
+- 录取率：54%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Standardized test scores
+	- 重要
+		- Academic GPA
+		- Extracurricular activities
+		- Application Essay
+		- Talent/ability
+		- Character/personal qualities
+		- Geographical residence
+		- Volunteer work
+		- Work experience
+		- Recommendation(s)
+- 申请成绩
+	- SAT
+		- 1160-1410
+		- 阅读写作：[470, 580]
+		- 数学：[475, 590]
+
+#### 费用
+- 学费： $28,229
+- 其他： $1,234 + $11,706
+
+#### 价值
+- 毕业率：84%
+- 2年后就业率：93%
+- 2年后年薪中位数：$36,000/ year
+
+#### 其他链接
 - [官网](https://www.osu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Ohio_State_University)
 - [Niche](https://www.niche.com/colleges/ohio-state-university/)
