@@ -502,10 +502,49 @@
 
 
 ### <a name="utexas"/>`24. University of Texas at Austin (公立常春藤)`
+#### 排名
 - [USNews 排名：56](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：14](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：8](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](https://utexas.app.box.com/v/CDS2017)
+
+#### [CDS](https://utexas.app.box.com/v/CDS2017)
+
+#### 申请
+- RD
+	- 截止日：December 1
+- 录取率：32%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Class rank
+	- 重要
+		- Standardized test scores
+		- Talent/ability
+		- Application Essay
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+	- 考虑
+		- Recommendation(s)
+		- Character/personal qualities
+		- Level of applicant’s interest
+
+- 申请成绩
+	- SAT
+		- 1140-1410
+		- 阅读写作：[620, 720]
+		- 数学：[610, 740]
+
+#### 费用
+- 学费： $36,744
+- 其他： $0 + $10,070
+
+#### 价值
+- 毕业率：81%
+- 2年后就业率：93%
+- 2年后年薪中位数：$43,100
+
+#### 其他链接
 - [官网](https://www.utexas.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin)
 - [Niche](https://www.niche.com/colleges/university-of-texas---austin/)
