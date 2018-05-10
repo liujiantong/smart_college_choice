@@ -826,9 +826,46 @@
 
 
 ### <a name="psu"/>`41. Pennsylvania State University - Main Campus (公立常春藤)`
+#### 排名
 - [USNews 排名：50](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：32](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](https://budget.psu.edu/CDS/Campus.aspx?AY=20172018&Location=UP&displayNewTuition=n)
+
+#### [CDS](https://budget.psu.edu/CDS/Campus.aspx?AY=20172018&Location=UP&displayNewTuition=n)
+
+#### 申请
+- RD
+	- Rolling Admissions
+- 录取率：46% (男生)
+- 录取因素
+	- 非常重要
+		- Standardized test scores
+		- Academic GPA
+	- 重要
+		- Rigor of secondary school record
+	- 考虑
+		- Talent/ability
+		- Extracurricular activities
+		- Application Essay
+		- Class rank
+		- Character/personal qualities
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1090-1300
+		- 阅读写作：[580, 660]
+		- 数学：[580, 680]
+
+#### 费用
+- 学费： $32,644
+- 其他： $1,020 + $11,280
+
+#### 价值
+- 毕业率：86%
+- 2年后就业率：94%
+- 2年后年薪中位数：$38,600/year
+
+#### 其他链接
 - [官网](http://www.psu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Pennsylvania_State_University)
 - [Niche](https://www.niche.com/colleges/penn-state/)
