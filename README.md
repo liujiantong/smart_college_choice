@@ -1,13 +1,16 @@
 # Smart college choice
 
-## ED/EA选项
+## ED选项
 * [Duke University](#duke)
 * [Rice University](#rice)
 * [Carnegie Mellon University](#cmu)
 * [Harvey Mudd College](#hmc)
+* [New York University](#nyu)
+
+## EA选项
 * [Georgia Institute of Technology](#gatech)
 * [University of Michigan - Ann Arbor](#umich)
-* [New York University](#nyu)
+* [Boston College](#bc)
 
 ## RD选项
 * [Northwestern University](#northwestern)
@@ -950,6 +953,12 @@
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 
 #### [CDS](https://www.bu.edu/oir/files/2017/07/cds-2017.pdf)
+
+#### 申请
+- ED
+	- 截止日：November 1
+- RD
+	- 截止日：January 2
 
 #### 其他链接
 - [官网](http://www.bu.edu/)
