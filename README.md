@@ -20,6 +20,7 @@
 * [University of California - Irvine](#uci)
 * [University of Virginia - Main Campus](#virginia)
 * [University of Illinois at Urbana - Champaign](#illinois)
+* [Boston University](#bu)
 
 ## 保底选项
 * [University of California - San Diego](#ucsd)
@@ -656,10 +657,14 @@
 
 
 ### <a name="wisc"/>`29. University of Wisconsin - Madison (公立常春藤)`
+#### 排名
 - [USNews 排名：44](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：44](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：14](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
+
+#### [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
+
+#### 其他链接
 - [官网](https://www.wisc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
 - [Niche](https://www.niche.com/colleges/university-of-wisconsin/)
@@ -677,8 +682,51 @@
 - [US News](https://www.usnews.com/best-colleges/university-of-washington-3798)
 
 
-### 31. Boston College
-- [CDS](https://www.bc.edu/content/dam/files/publications/factbook/pdf/17_18/17-18_factbook.pdf)
+### <a name="#bc"/>`31. Boston College`
+#### 排名
+- [USNews 排名：32](https://www.usnews.com/best-colleges/rankings/national-universities)
+
+#### [CDS](https://www.bc.edu/content/dam/files/publications/factbook/pdf/17_18/17-18_factbook.pdf)
+
+#### 申请
+- EA
+	- 截止日：November 1
+	- Last Accepted SAT Test Date: October
+- RD
+	- 截止日：January 1
+	- Last Accepted SAT Test Date: December
+- 录取率：31%
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Class rank
+		- Academic GPA
+		- Recommendation(s)
+		- Character/personal qualities
+	- 重要
+		- Standardized test scores
+		- Application Essay
+		- Talent/ability
+		- Extracurricular activities
+	- 考虑
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1260-1460
+		- 阅读写作：[620, 720]
+		- 数学：[640, 740]
+
+#### 费用
+- 学费： $54,600
+- 其他： $1,401 + $14,142
+
+#### 价值
+- 毕业率：93%
+- 2年后就业率：94%
+- 2年后年薪中位数：$55,500/year
+
+#### 其他链接
 - [官网](https://www.bc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Boston_College)
 - [Niche](https://www.niche.com/colleges/boston-college/)
@@ -882,20 +930,28 @@
 
 
 ### <a name="purdue"/>`44. Purdue University - Main Campus (公立常春藤)`
+#### 排名
 - [USNews 排名：60](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [USNews 计算机排名：12](https://www.usnews.com/best-colleges/rankings/engineering-doctorate-computer)
-- [CDS](https://www.purdue.edu/oirae/documents/CDS/CDS_2017-2018.xlsx)
+
+#### [CDS](https://www.purdue.edu/oirae/documents/CDS/CDS_2017-2018.xlsx)
+
+#### 其他链接
 - [官网](http://www.purdue.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Purdue_University)
 - [Niche](https://www.niche.com/colleges/purdue-university/)
 - [US News](https://www.usnews.com/best-colleges/purdue-1825)
 
 
-### 47. Boston University
+### <a name="bu"/>`47. Boston University`
+#### 排名
 - [USNews 排名：39](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [US News 全美数学排名：47](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
-- [CDS](https://www.bu.edu/oir/files/2017/07/cds-2017.pdf)
+
+#### [CDS](https://www.bu.edu/oir/files/2017/07/cds-2017.pdf)
+
+#### 其他链接
 - [官网](http://www.bu.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Boston_University)
 - [Niche](https://www.niche.com/colleges/boston-university/)
