@@ -940,6 +940,43 @@
 
 #### [CDS](https://www.purdue.edu/oirae/documents/CDS/CDS_2017-2018.xlsx)
 
+#### 申请
+- EA
+	- 截止日：November 1
+- RD
+	- Rolling Admissions
+- 录取率：51% (男生)
+- 录取因素
+	- 非常重要
+		= Rigor of secondary school record
+		- Academic GPA
+		- Standardized test scores
+	- 重要
+		- Application Essay
+		- Recommendation(s)
+		- Application Essay
+		- Character/personal qualities
+		- Extracurricular activities
+	- 考虑
+		- Class rank
+		- Talent/ability
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1090-1300
+		- 阅读写作：[570, 670]
+		- 数学：[580, 710]
+
+#### 费用
+- 学费： $30,010
+- 其他： $784 + $10,030
+
+#### 价值
+- 毕业率：76%
+- 2年后就业率：94%
+- 2年后年薪中位数：$43,000/year
+
 #### 其他链接
 - [官网](http://www.purdue.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Purdue_University)
@@ -959,6 +996,36 @@
 	- 截止日：November 1
 - RD
 	- 截止日：January 2
+- 录取率：28% (男生)
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Talent/ability
+	- 重要
+		- Class rank
+		- Academic GPA
+		- Standardized test scores
+		- Application Essay
+		- Recommendations
+		- Extracurricular activities
+		- Character/personal qualities
+	- 考虑
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1220-1420
+		- 阅读写作：[590, 680]
+		- 数学：[630, 740]
+
+#### 费用
+- 学费： $49,176
+- 其他： $1,064 + $14,870
+
+#### 价值
+- 毕业率：87%
+- 2年后就业率：93%
+- 2年后年薪中位数：$46,700/year
 
 #### 其他链接
 - [官网](http://www.bu.edu/)
