@@ -1418,13 +1418,46 @@
 
 
 ### <a name="stonybrook"/>`Stony Brook University (纽约州立大学分校, 公立常春藤)`
+#### 排名
 - [USNews 全美数学排名：26](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
 - [本科计算机排名：85](https://www.collegefactual.com/majors/computer-information-sciences/rankings/top-ranked/)
-- [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
+
+#### [CDS](http://www.stonybrook.edu/commcms/irpe/fact_book/common_data_set/_files/CDS_2017-2018.pdf)
+
+#### 其他链接
 - [官网](http://www.stonybrook.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Stony_Brook_University)
 - [Niche](https://www.niche.com/colleges/stony-brook-university-suny/)
 - [US News](https://www.usnews.com/best-colleges/stony-brook-suny-2838)
+
+#### 申请
+- RD
+	- 截止日：January 15
+- 录取率：41%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Academic GPA
+		- Standardized test scores
+	- 重要
+		- Application Essay
+		- Recommendation(s)
+	- 考虑
+		- Extracurricular activities
+		- Talent/ability
+		- Character/personal qualities
+		- Geographical residence
+		- Volunteer work
+		- Work experience
+- 申请成绩
+	- SAT
+		- 1150-1370
+		- 阅读写作：[590, 680]
+		- 数学：[620, 730]
+
+#### 费用
+- 学费： $24,180
+- 其他： $2,587 + $13,446
 
 #### 价值
 - 毕业率：72%
