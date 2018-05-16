@@ -1348,7 +1348,11 @@
 
 
 ### `University of Minnesota, Twin Cities (公立常春藤)`
+#### 排名
+- [USNews 排名：69](https://www.usnews.com/best-colleges/rankings/national-universities)
 - [USNews 全美数学排名：19](http://www.qianmu.org/2019USNEWS%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E6%8E%92%E5%90%8D)
+
+#### 其他链接
 - [官网](https://twin-cities.umn.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Minnesota)
 - [Niche](https://www.niche.com/colleges/university-of-minnesota---twin-cities/)
