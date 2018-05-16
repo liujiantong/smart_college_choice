@@ -667,6 +667,43 @@
 
 #### [CDS](https://uwmadison.app.box.com/s/twlkdyows3m6gsphga32mb2h3nt1kb7x)
 
+#### 申请
+- EA
+	- 截止日：November 1
+- RD
+	- 截止日：February 1
+- 录取率：50%（男生）
+- 录取因素
+	- 非常重要
+		- Rigor of secondary school record
+		- Class rank
+		- Academic GPA
+	- 重要
+		- Application Essay
+		- Standardized test scores
+		- Recommendation
+	- 考虑
+		- Talent/ability
+		- Extracurricular activities
+		- Volunteer work
+		- Work experience
+		- Character/personal qualities
+
+- 申请成绩
+	- SAT
+		- 1200-1420
+		- 阅读写作：[620, 690]
+		- 数学：[660, 760]
+
+#### 费用
+- 学费： $36,783
+- 其他： $1,200 + $11,114
+
+#### 价值
+- 毕业率：85%
+- 2年后就业率：95%
+- 2年后年薪中位数：$42,300/year
+
 #### 其他链接
 - [官网](https://www.wisc.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
