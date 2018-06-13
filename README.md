@@ -145,6 +145,16 @@
 	- 亚洲人：13%
 	- 黑人：5%
 
+#### 专业
+##### Mathematics
+- [Mathematics Major](https://www.hmc.edu/mathematics/program/majors/mathematics-major/)
+- [Joint Major in Computer Science and Mathematics](https://www.hmc.edu/mathematics/program/majors/joint-major-computer-science-mathematics/)
+- [Joint Major in Mathematics and Physics](https://www.hmc.edu/mathematics/program/majors/joint-major-mathematics-physics/)
+- [Mathematical and Computational Biology Major](https://www.hmc.edu/mathematics/program/majors/mathematical-computational-biology-major/)
+
+##### Computer Science
+- [Computer Science Major](https://www.cs.hmc.edu/program/cs-major)
+
 #### 其他链接
 - [官网](https://www.hmc.edu/)
 - [Niche](https://www.niche.com/colleges/harvey-mudd-college/)
