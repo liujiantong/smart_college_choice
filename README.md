@@ -450,6 +450,7 @@
 #### 专业
 ##### Mathematics
 [Mathematics](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj)
+[Mathematics of Finance and Risk Management](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics_of_finance_and_risk_management-sub)
 
 ##### Computer
 [Computer Science](https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj)
