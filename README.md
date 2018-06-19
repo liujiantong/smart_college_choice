@@ -449,11 +449,11 @@
 
 #### 专业
 ##### Mathematics
-[Mathematics](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj)
-[Mathematics of Finance and Risk Management](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics_of_finance_and_risk_management-sub)
+- [Mathematics](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj)
+- [Mathematics of Finance and Risk Management](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics_of_finance_and_risk_management-sub)
 
 ##### Computer
-[Computer Science](https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj)
+- [Computer Science](https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj)
 
 
 #### 其他链接
@@ -1362,16 +1362,16 @@
 
 #### 专业
 ##### Mathematics
-[Applied Mathematics](http://catalog.gatech.edu/programs/mathematics-applied-bs/)
-[Discrete Mathematics](http://catalog.gatech.edu/programs/mathematics-discrete-bs/)
-[Probability and Statistics](http://catalog.gatech.edu/programs/mathematics-probability-and-statistics-bs/)
-[Pure Mathematics](http://catalog.gatech.edu/programs/mathematics-pure-bs/)
+- [Applied Mathematics](http://catalog.gatech.edu/programs/mathematics-applied-bs/)
+- [Discrete Mathematics](http://catalog.gatech.edu/programs/mathematics-discrete-bs/)
+- [Probability and Statistics](http://catalog.gatech.edu/programs/mathematics-probability-and-statistics-bs/)
+- [Pure Mathematics](http://catalog.gatech.edu/programs/mathematics-pure-bs/)
 
 ##### Computational Finance
-[Quantitative and Computational Finance](http://catalog.gatech.edu/programs/quantitative-computational-finance-ms/)
+- [Quantitative and Computational Finance](http://catalog.gatech.edu/programs/quantitative-computational-finance-ms/)
 
 ##### Computer
-[Computer Science](http://catalog.gatech.edu/programs/computer-science-bs/)
+- [Computer Science](http://catalog.gatech.edu/programs/computer-science-bs/)
 
 #### 其他链接
 - [官网](http://www.gatech.edu/)
