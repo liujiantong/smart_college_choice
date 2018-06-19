@@ -446,6 +446,15 @@
 - 2年后就业率：93%
 - 2年后年薪中位数：$49,600/ year
 
+
+#### 专业
+##### Mathematics
+[Mathematics](https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj)
+
+##### Computer
+[Computer Science](https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj)
+
+
 #### 其他链接
 - [官网](https://www.umich.edu/)
 - [Wikipedia](https://en.wikipedia.org/wiki/University_of_Michigan)
@@ -1349,6 +1358,19 @@
 - 佐治亚州亚特兰大
 - 夏天最高温度：32
 - 冬天最低温度：1
+
+#### 专业
+##### Mathematics
+[Applied Mathematics](http://catalog.gatech.edu/programs/mathematics-applied-bs/)
+[Discrete Mathematics](http://catalog.gatech.edu/programs/mathematics-discrete-bs/)
+[Probability and Statistics](http://catalog.gatech.edu/programs/mathematics-probability-and-statistics-bs/)
+[Pure Mathematics](http://catalog.gatech.edu/programs/mathematics-pure-bs/)
+
+##### Computational Finance
+[Quantitative and Computational Finance](http://catalog.gatech.edu/programs/quantitative-computational-finance-ms/)
+
+##### Computer
+[Computer Science](http://catalog.gatech.edu/programs/computer-science-bs/)
 
 #### 其他链接
 - [官网](http://www.gatech.edu/)
